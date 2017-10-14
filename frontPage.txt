@@ -1,0 +1,5934 @@
+<!DOCTYPE html><html lang="en-US" dir="ltr"><head><link type="text/css" rel="stylesheet" id="arrowchat_css" media="all" href="/arrowchat/external.php?type=css" charset="utf-8">
+<script type="text/javascript" src="/arrowchat/includes/js/jquery.js"></script><script type="text/javascript" src="/arrowchat/includes/js/jquery-ui.js"></script><title>Forums - CryptoTalk</title>
+<!--[if lt IE 9]>
+			<link rel="stylesheet" type="text/css" href="https://www.cryptotalk.org/uploads/css_built_1/5e61784858ad3c11f00b5706d12afe52_ie8.css.dd889e6b77de22ea32c82d0e108f4a93.css">
+		    <script src="//www.cryptotalk.org/applications/core/interface/html5shiv/html5shiv.js"></script>
+		<![endif]-->
+		
+<meta charset="utf-8">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+	
+		
+			
+				<meta property="og:title" content="CryptoTalk">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:type" content="website">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:url" content="https://www.cryptotalk.org/index.php">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:site_name" content="CryptoTalk">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:locale" content="en_US">
+			
+		
+	
+
+	
+		
+			
+				<meta name="keywords" content="Cryptocoin news, information, and discussions about crypto-currencies.">
+			
+		
+	
+
+<meta name="theme-color" content="#3c6994">
+<link rel="canonical" href="https://www.cryptotalk.org/index.php" />
+
+
+		
+
+	<link rel='stylesheet' href='https://www.cryptotalk.org/uploads/css_built_1/341e4a57816af3ba440d891ca87450ff_framework.css.4e62f2175999c78d4696a7a451c461aa.css?v=23c91437a2' media='all'>
+
+	<link rel='stylesheet' href='https://www.cryptotalk.org/uploads/css_built_1/05e81b71abe4f22d6eb8d1a929494829_responsive.css.87a3da8bc9e5a92585c3c1dae075f534.css?v=23c91437a2' media='all'>
+
+	<link rel='stylesheet' href='https://www.cryptotalk.org/uploads/css_built_1/90eb5adf50a8c640f633d47fd7eb1778_core.css.ba61e58e859a494d9f1c903e1f35e0d7.css?v=23c91437a2' media='all'>
+
+	<link rel='stylesheet' href='https://www.cryptotalk.org/uploads/css_built_1/5a0da001ccc2200dc5625c3f3934497d_core_responsive.css.1406d7b69192f1fb05df45cdc9c1ddfd.css?v=23c91437a2' media='all'>
+
+	<link rel='stylesheet' href='https://www.cryptotalk.org/uploads/css_built_1/62e269ced0fdab7e30e026f1d30ae516_forums.css.a020054238cb7842b19bd577ae0c3198.css?v=23c91437a2' media='all'>
+
+	<link rel='stylesheet' href='https://www.cryptotalk.org/uploads/css_built_1/76e62c573090645fb99a15a363d8620e_forums_responsive.css.e501e11dcb394ec4c1c9dfc21d1a1b96.css?v=23c91437a2' media='all'>
+
+
+
+
+<link rel='stylesheet' href='https://www.cryptotalk.org/uploads/css_built_1/258adbb6e4f3e83cd3b355f84e3fa002_custom.css.8714d143fa43060bd171d2d038c8a9de.css?v=23c91437a2' media='all'>
+
+
+
+		
+
+	<script type='text/javascript'>
+		var ipsDebug = false;		
+	
+		var CKEDITOR_BASEPATH = '//www.cryptotalk.org/applications/core/interface/ckeditor/ckeditor/';
+	
+		var ipsSettings = {
+			
+			
+			cookie_path: "/",
+			
+			cookie_prefix: "ips4_",
+			
+			
+			cookie_ssl: true,
+			
+			imgURL: "",
+			baseURL: "//www.cryptotalk.org/",
+			jsURL: "//www.cryptotalk.org/applications/core/interface/js/js.php",
+			csrfKey: "c988d11125ae9a2c406a37121a723ef8",
+			antiCache: "23c91437a2",
+			disableNotificationSounds: false,
+			useCompiledFiles: true,
+			links_external: 1,
+			memberID: 0,
+			analyticsProvider: "none",
+			
+		};
+	</script>
+
+
+
+<script type='text/javascript' src='https://www.cryptotalk.org/uploads/javascript_global/root_library.js.36efa9aa8730b89a8fbb98e1c784998b.js?v=23c91437a2' data-ips></script>
+
+
+<script type='text/javascript' src='https://www.cryptotalk.org/uploads/javascript_global/root_js_lang_1.js.82c449c84449cb933ae5d096999ee8b3.js?v=23c91437a2' data-ips></script>
+
+
+<script type='text/javascript' src='https://www.cryptotalk.org/uploads/javascript_global/root_framework.js.b53613b2cfc1456890c046ddefbdc277.js?v=23c91437a2' data-ips></script>
+
+
+<script type='text/javascript' src='https://www.cryptotalk.org/uploads/javascript_core/global_global_core.js.6304c040c5f8b662ca908a0a4bad6cf3.js?v=23c91437a2' data-ips></script>
+
+
+<script type='text/javascript' src='https://www.cryptotalk.org/uploads/javascript_global/root_front.js.be7d7c95b8999863dae1d4656483d2aa.js?v=23c91437a2' data-ips></script>
+
+
+<script type='text/javascript' src='https://www.cryptotalk.org/uploads/javascript_gallery/front_front_browse.js.6e522d2cc6f7937cd60f9af3c7230fb6.js?v=23c91437a2' data-ips></script>
+
+
+<script type='text/javascript' src='https://www.cryptotalk.org/uploads/javascript_forums/front_front_forum.js.4554b3a14396b0c5835c976e308a4d2a.js?v=23c91437a2' data-ips></script>
+
+
+<script type='text/javascript' src='https://www.cryptotalk.org/uploads/javascript_global/root_map.js.bef16eecdc83c37911be86913a8d794a.js?v=23c91437a2' data-ips></script>
+
+
+
+	<script type='text/javascript'>
+		
+			ips.setSetting( 'date_format', jQuery.parseJSON('"mm\/dd\/yy"') );
+		
+			ips.setSetting( 'date_first_day', jQuery.parseJSON('0') );
+		
+			ips.setSetting( 'remote_image_proxy', jQuery.parseJSON('1') );
+		
+			ips.setSetting( 'ipb_url_filter_option', jQuery.parseJSON('"none"') );
+		
+			ips.setSetting( 'url_filter_any_action', jQuery.parseJSON('"allow"') );
+		
+			ips.setSetting( 'bypass_profanity', jQuery.parseJSON('0') );
+		
+		
+	</script>
+
+
+		
+
+	<link rel='shortcut icon' href='https://www.cryptotalk.org/uploads/monthly_2016_10/favicon.ico.6d4a524c507b1f7fcc84bff2c935783e.ico'>
+
+	
+
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
+
+
+<script>
+var theme;
+var gaProperty = '';
+var disableStr = 'ga-disable-' + gaProperty;
+var message;
+
+  
+if (0 == 0) {
+	theme = "dark-bottom";
+}
+if (0 == 1) {
+	theme = "light-bottom";
+}
+if (0 == 2) {
+	theme = "dark-top";
+}
+if (0 == 3) {
+	theme = "light-top";
+}
+if (0 == 4) {
+	theme = "dark-floating";
+}
+if (0 == 5) {
+	theme = "light-floating";
+}
+
+if (0 == 0) {
+    message = "This website uses cookies to ensure you get the best experience on our website."
+    } else {
+    message =  "This website uses cookies to ensure you get the best experience on our website."
+}
+  
+window.cookieconsent_options = {
+		message: ''+message+'',
+        learnMore: 'More info',
+        link: '',
+    	dismiss: 'Got it!',
+      	theme: ''+theme+'',
+};
+
+  
+if (document.cookie.indexOf('cookieconsent_dismissed') == -1 && 0 == 1)  {
+	window[disableStr] = true;
+}
+
+  
+var domain = window.location.hostname;
+function deleteCookie(key)
+{
+	domain = domain.replace(/^www\./, "");
+	document.cookie = key + '=; Path=/; Domain=.'+domain+'; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+}
+
+  
+if (document.cookie.indexOf('_ga') > -1 && 0 == 1 && document.cookie.indexOf('cookieconsent_dismissed') == -1)  {
+    deleteCookie("_ga");
+  	deleteCookie("_gat");
+}
+  
+
+</script>
+
+</head><body class="ipsApp ipsApp_front ipsJS_none ipsClearfix" data-controller="core.front.core.app"  data-message=""  data-pageapp="forums" data-pagelocation="front" data-pagemodule="forums" data-pagecontroller="index" itemscope itemtype="http://schema.org/WebSite">
+ <meta itemprop="url" content="https://www.cryptotalk.org/">
+<a href="#elContent" class="ipsHide" title="Go to main content on this page" accesskey="m">Jump to content</a>
+		
+		<div id="ipsLayout_header" class="ipsClearfix">
+			
+
+			
+
+
+			
+<ul id='elMobileNav' class='ipsList_inline ipsResponsive_hideDesktop ipsResponsive_block' data-controller='core.front.core.mobileNav' data-default="all">
+	
+	
+	
+	<li >
+		<a data-action="defaultStream" class='ipsType_light'  href='https://www.cryptotalk.org/index.php?/discover/'><i class='icon-newspaper'></i></a>
+	</li>
+
+	
+		<li class='ipsJS_show'>
+			<a href='https://www.cryptotalk.org/index.php?/search/' data-action="mobileSearch"><i class='fa fa-search'></i></a>
+		</li>
+	
+	<li data-ipsDrawer data-ipsDrawer-drawerElem='#elMobileDrawer'>
+		<a href='#'>
+			
+			
+				
+			
+			
+			
+			<i class='fa fa-navicon'></i>
+		</a>
+	</li>
+</ul>
+			<header><div class="ipsLayout_container">
+					
+
+
+<a href='https://www.cryptotalk.org/' id='elLogo' accesskey='1'><img src="https://www.cryptotalk.org/uploads/monthly_2017_01/White.png.94bec4273a73dfbcfbb05f40cd5efa53.png" alt='CryptoTalk'></a>
+
+					
+
+	<ul id="elUserNav" class="ipsList_inline cSignedOut ipsClearfix ipsResponsive_hidePhone ipsResponsive_block">
+	
+
+
+	<li class='cUserNav_icon ipsHide' id='elCart_container'></li>
+	<li class='elUserNav_sep ipsHide' id='elCart_sep'></li>
+
+<li id="elSignInLink">
+			
+				<a href="https://www.cryptotalk.org/index.php?/login/" data-ipsmenu-closeonclick="false" data-ipsmenu id="elUserSignIn">
+					Existing user? Sign In  <i class="fa fa-caret-down"></i>
+				</a>
+			
+			
+<div id='elUserSignIn_menu' class='ipsMenu ipsMenu_auto ipsHide'>
+	<div data-role="loginForm">
+		
+			<div class='ipsColumns ipsColumns_noSpacing'>
+				<div class='ipsColumn ipsColumn_wide' id='elUserSignIn_internal'>
+		
+		
+			
+				
+<form accept-charset='utf-8' class="ipsPad ipsForm ipsForm_vertical" method='post' action='https://www.cryptotalk.org/index.php?/login/' data-ipsValidation novalidate>
+	<input type="hidden" name="login__standard_submitted" value="1">
+	
+		<input type="hidden" name="csrfKey" value="c988d11125ae9a2c406a37121a723ef8">
+	
+	<h4 class="ipsType_sectionHead">Sign In</h4>
+	<br><br>
+	<ul class='ipsList_reset'>
+		
+			
+				
+					<li class="ipsFieldRow ipsFieldRow_noLabel ipsFieldRow_fullWidth">
+						<input type="text" required placeholder="Display Name or Email Address" name='auth' id='auth'>
+					</li>
+				
+			
+				
+					<li class="ipsFieldRow ipsFieldRow_noLabel ipsFieldRow_fullWidth">
+						<input type="password" required placeholder="Password" name='password' id='password'>
+					</li>
+				
+			
+				
+					
+<li class='ipsFieldRow ipsFieldRow_checkbox ipsClearfix ' id="9c7ffa65f11c317804907d1e35f70d9d">
+	
+		
+		
+<input type="hidden" name="remember_me" value="0">
+<span class='ipsCustomInput'>
+	<input
+		type='checkbox'
+		role='checkbox'
+		name='remember_me_checkbox'
+		value='1'
+		id="check_9c7ffa65f11c317804907d1e35f70d9d"
+		data-toggle-id="9c7ffa65f11c317804907d1e35f70d9d"
+		checked aria-checked='true'
+		
+		
+		
+		
+		
+		
+	>
+	
+	<span></span>
+</span>
+
+
+		
+		<div class='ipsFieldRow_content'>
+			<label class='ipsFieldRow_label' for='check_9c7ffa65f11c317804907d1e35f70d9d'>Remember me </label>
+			
+
+
+<span class='ipsFieldRow_desc'>
+	Not recommended on shared computers
+</span>
+			
+			
+		</div>
+	
+</li>
+				
+			
+				
+					
+<li class='ipsFieldRow ipsFieldRow_checkbox ipsClearfix ' id="447c4ee74bbd7ef2ff264d7b7231e3e7">
+	
+		
+		
+<input type="hidden" name="signin_anonymous" value="0">
+<span class='ipsCustomInput'>
+	<input
+		type='checkbox'
+		role='checkbox'
+		name='signin_anonymous_checkbox'
+		value='1'
+		id="check_447c4ee74bbd7ef2ff264d7b7231e3e7"
+		data-toggle-id="447c4ee74bbd7ef2ff264d7b7231e3e7"
+		aria-checked='false'
+		
+		
+		
+		
+		
+		
+	>
+	
+	<span></span>
+</span>
+
+
+		
+		<div class='ipsFieldRow_content'>
+			<label class='ipsFieldRow_label' for='check_447c4ee74bbd7ef2ff264d7b7231e3e7'>Sign in anonymously </label>
+			
+			
+			
+		</div>
+	
+</li>
+				
+			
+		
+		<li class="ipsFieldRow ipsFieldRow_fullWidth">
+			<br>
+			<button type="submit" class="ipsButton ipsButton_primary ipsButton_small" id="elSignIn_submit">Sign In</button>
+			<br>
+			<p class="ipsType_right ipsType_small">
+				<a href='https://www.cryptotalk.org/index.php?/lostpassword/' data-ipsDialog data-ipsDialog-title='Forgot your password?'>Forgot your password?</a>
+			</p>
+		</li>
+	</ul>
+</form>
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+				</div>
+				<div class='ipsColumn ipsColumn_wide'>
+					<div class='ipsPad' id='elUserSignIn_external'>
+						<div class='ipsAreaBackground_light ipsPad_half'>
+							<p class='ipsType_reset ipsType_small ipsType_center'><strong>Or sign in with one of these services</strong></p>
+							<br>
+							
+								
+							
+								
+									<div class='ipsPad_half ipsType_center'>
+										
+
+<a href='https://login.live.com/oauth20_authorize.srf?client_id=c9d0271f-a87e-458f-8c64-e0dcc7eab1ce&amp;scope=wl.signin%20wl.emails%20wl.offline_access&amp;response_type=code&amp;redirect_uri=https://www.cryptotalk.org/applications/core/interface/microsoft/auth.php&amp;state=front-c988d11125ae9a2c406a37121a723ef8-aHR0cHM6Ly93d3cuY3J5cHRvdGFsay5vcmcvaW5kZXgucGhwPy9sb2dpbi8=' class='ipsButton ipsButton_verySmall ipsButton_fullWidth ipsSocial ipsSocial_microsoft'>
+	<span class='ipsSocial_icon'><i class='fa fa-windows'></i></span>
+	<span class='ipsSocial_text'>Sign in with Microsoft</span>
+</a>
+									</div>
+								
+							
+								
+									<div class='ipsPad_half ipsType_center'>
+										
+
+<a href='https://www.facebook.com/dialog/oauth?client_id=693145454184987&amp;scope=email&amp;redirect_uri=https://www.cryptotalk.org/applications/core/interface/facebook/auth.php&amp;state=front-c988d11125ae9a2c406a37121a723ef8-aHR0cHM6Ly93d3cuY3J5cHRvdGFsay5vcmcvaW5kZXgucGhwPy9sb2dpbi8=' class='ipsButton ipsButton_verySmall ipsButton_fullWidth ipsSocial ipsSocial_facebook'>
+	<span class='ipsSocial_icon'><i class='fa fa-facebook'></i></span>
+	<span class='ipsSocial_text'>Sign in with Facebook</span>
+</a>
+									</div>
+								
+							
+								
+									<div class='ipsPad_half ipsType_center'>
+										
+<a href='https://www.cryptotalk.org/index.php?/login/&amp;loginProcess=twitter&amp;ref=aHR0cHM6Ly93d3cuY3J5cHRvdGFsay5vcmcvaW5kZXgucGhwPy9sb2dpbi8=' class='ipsButton ipsButton_verySmall ipsButton_fullWidth ipsSocial ipsSocial_twitter'>
+	<span class='ipsSocial_icon'><i class='fa fa-twitter'></i></span>
+	<span class='ipsSocial_text'>Sign in with Twitter</span>
+</a>
+									</div>
+								
+							
+								
+									<div class='ipsPad_half ipsType_center'>
+										
+<a href='https://accounts.google.com/o/oauth2/auth?response_type=code&amp;client_id=541884198401-qik0adk45b1s3ouvaason90dl1pf01pq.apps.googleusercontent.com&amp;redirect_uri=https://www.cryptotalk.org/applications/core/interface/google/auth.php&amp;scope=https://www.googleapis.com/auth/plus.login%20https://www.googleapis.com/auth/userinfo.email%20https://www.googleapis.com/auth/userinfo.profile&amp;access_type=offline&amp;state=front-c988d11125ae9a2c406a37121a723ef8-aHR0cHM6Ly93d3cuY3J5cHRvdGFsay5vcmcvaW5kZXgucGhwPy9sb2dpbi8=' class='ipsButton ipsButton_verySmall ipsButton_fullWidth ipsSocial ipsSocial_google'>
+	<span class='ipsSocial_icon'><i class='fa fa-google-plus'></i></span>
+	<span class='ipsSocial_text'>Sign in with Google</span>
+</a>
+									</div>
+								
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		
+	</div>
+</div>
+		</li>
+		
+			<li>
+				<a href="https://www.cryptotalk.org/index.php?/register/" id="elRegisterButton" class="ipsButton ipsButton_normal ipsButton_primary">
+					Sign Up
+				</a>
+			</li>
+		
+	</ul>
+
+				</div>
+			</header>
+			
+
+	<nav class='ipsLayout_container' data-controller='core.front.core.navBar'>
+		<div class='ipsNavBar_primary  ipsClearfix'>
+			
+				<div id='elSearch' class='ipsPos_right' data-controller='core.front.core.quickSearch' itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" data-default="all">
+					<form accept-charset='utf-8' action='https://www.cryptotalk.org/index.php?/search/' method='post'>
+						<meta itemprop="target" content="https://www.cryptotalk.org/index.php?/search/&amp;q={q}">
+						<a href='#' id='elSearchFilter' data-ipsMenu data-ipsMenu-selectable='radio' data-ipsMenu-appendTo='#elSearch' class="ipsHide">
+							<span data-role='searchingIn'>
+								
+									
+									All Content
+								
+							</span>
+							<i class='fa fa-caret-down'></i>
+						</a>
+						<input type="hidden" name="type" value="all" data-role="searchFilter">
+						<ul id='elSearchFilter_menu' class='ipsMenu ipsMenu_selectable ipsMenu_narrow ipsHide'>
+							<li class='ipsMenu_item ipsMenu_itemChecked' data-ipsMenuValue='all'>
+								<a href='https://www.cryptotalk.org/index.php?app=core&amp;module=search&amp;controller=search&amp;csrfKey=c988d11125ae9a2c406a37121a723ef8' title='All Content'>All Content</a>
+							</li>
+							<li class='ipsMenu_sep'><hr></li>
+							
+							<li data-role='globalSearchMenuOptions'></li>
+							<li class='ipsMenu_item ipsMenu_itemNonSelect'>
+								<a href='https://www.cryptotalk.org/index.php?/search/' accesskey='4'><i class='fa fa-cog'></i> Advanced Search</a>
+							</li>
+						</ul>
+						<input type='search' id='elSearchField' placeholder='Search...' name='q' itemprop="query-input">
+						<button type='submit'><i class='fa fa-search'></i></button>
+					</form>
+				</div>
+			
+			<ul data-role="primaryNavBar" class='ipsResponsive_showDesktop ipsResponsive_block'>
+				
+
+	
+		
+		
+		<li  id='elNavSecondary_16' data-role="navBarItem" data-navApp="core" data-navExt="Menu">
+			
+			
+				<a href="#" id="elNavigation_16" data-ipsMenu data-ipsMenu-appendTo='#elNavSecondary_16' data-ipsMenu-activeClass='ipsNavActive_menu' data-navItem-id="16" >
+					System <i class="fa fa-caret-down"></i>
+				</a>
+				<ul id="elNavigation_16_menu" class="ipsMenu ipsMenu_auto ipsHide">
+					
+
+	
+		
+			<li class='ipsMenu_item' >
+				<a href='http://www.cryptopool.io' target='_blank'>
+					Cryptopool.io
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li class='ipsMenu_item' >
+				<a href='https://www.site24x7.com/sv.do?id=FvjOIe%2BagLnM0T%2Bii9qlziXQrQQeefhig6iEtcsuxST%2BCEuNNoRPPrpDmwD9AA1cULpVCdV7V1fZ%0ArPrlfwVCstdqOBbRp1EPyKK5HqxJvX0=' target='_blank'>
+					Pool Server Status
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li class='ipsMenu_item' >
+				<a href='https://www.cryptotalk.org/wallet' target='_blank'>
+					CryptoTalk Web Wallet
+				</a>
+			</li>
+		
+	
+
+				</ul>
+			
+			
+		</li>
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_2' data-role="navBarItem" data-navApp="core" data-navExt="CustomItem">
+			
+			
+				<a href="https://www.cryptotalk.org/index.php?/discover/"  data-navItem-id="2" >
+					Activity
+				</a>
+			
+			
+				<ul class='ipsNavBar_secondary ipsHide' data-role='secondaryNavBar'>
+					
+
+	
+		
+		
+		<li  id='elNavSecondary_3' data-role="navBarItem" data-navApp="core" data-navExt="AllActivity">
+			
+			
+				<a href="https://www.cryptotalk.org/index.php?/discover/"  data-navItem-id="3" >
+					All Activity
+				</a>
+			
+			
+		</li>
+	
+
+	
+
+	
+
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_7' data-role="navBarItem" data-navApp="core" data-navExt="Search">
+			
+			
+				<a href="https://www.cryptotalk.org/index.php?/search/"  data-navItem-id="7" >
+					Search
+				</a>
+			
+			
+		</li>
+	
+
+					<li class='ipsHide' id='elNavigationMore_2' data-role='navMore'>
+						<a href='#' data-ipsMenu data-ipsMenu-appendTo='#elNavigationMore_2' id='elNavigationMore_2_dropdown'>More <i class='fa fa-caret-down'></i></a>
+						<ul class='ipsHide ipsMenu ipsMenu_auto' id='elNavigationMore_2_dropdown_menu' data-role='moreDropdown'></ul>
+					</li>
+				</ul>
+			
+		</li>
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_22' data-role="navBarItem" data-navApp="nexus" data-navExt="Store">
+			
+			
+				<a href="https://www.cryptotalk.org/index.php?/store/"  data-navItem-id="22" >
+					Store
+				</a>
+			
+			
+				<ul class='ipsNavBar_secondary ipsHide' data-role='secondaryNavBar'>
+					
+
+	
+		
+		
+		<li  id='elNavSecondary_25' data-role="navBarItem" data-navApp="nexus" data-navExt="Purchases">
+			
+			
+				<a href="https://www.cryptotalk.org/index.php?/clients/purchases/"  data-navItem-id="25" >
+					Manage Purchases
+				</a>
+			
+			
+		</li>
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_24' data-role="navBarItem" data-navApp="nexus" data-navExt="Orders">
+			
+			
+				<a href="https://www.cryptotalk.org/index.php?/clients/"  data-navItem-id="24" >
+					Orders
+				</a>
+			
+			
+		</li>
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_23' data-role="navBarItem" data-navApp="nexus" data-navExt="Donations">
+			
+			
+				<a href="https://www.cryptotalk.org/index.php?/clients/donations/"  data-navItem-id="23" >
+					Donations
+				</a>
+			
+			
+		</li>
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_26' data-role="navBarItem" data-navApp="core" data-navExt="Menu">
+			
+			
+				<a href="#" id="elNavigation_26" data-ipsMenu data-ipsMenu-appendTo='#elNavSecondary_22' data-ipsMenu-activeClass='ipsNavActive_menu' data-navItem-id="26" >
+					My Details <i class="fa fa-caret-down"></i>
+				</a>
+				<ul id="elNavigation_26_menu" class="ipsMenu ipsMenu_auto ipsHide">
+					
+
+	
+		
+			<li class='ipsMenu_item' >
+				<a href='https://www.cryptotalk.org/index.php?/clients/info/' >
+					Personal Information
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li class='ipsMenu_item' >
+				<a href='https://www.cryptotalk.org/index.php?/clients/addresses/' >
+					Addresses
+				</a>
+			</li>
+		
+	
+
+	
+
+	
+
+	
+
+	
+		
+			<li class='ipsMenu_item' >
+				<a href='https://www.cryptotalk.org/index.php?/clients/alternative-contacts/' >
+					Alternative Contacts
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li class='ipsMenu_item' >
+				<a href='https://www.cryptotalk.org/index.php?/clients/referrals/' >
+					Referrals
+				</a>
+			</li>
+		
+	
+
+				</ul>
+			
+			
+		</li>
+	
+
+					<li class='ipsHide' id='elNavigationMore_22' data-role='navMore'>
+						<a href='#' data-ipsMenu data-ipsMenu-appendTo='#elNavigationMore_22' id='elNavigationMore_22_dropdown'>More <i class='fa fa-caret-down'></i></a>
+						<ul class='ipsHide ipsMenu ipsMenu_auto' id='elNavigationMore_22_dropdown_menu' data-role='moreDropdown'></ul>
+					</li>
+				</ul>
+			
+		</li>
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_34' data-role="navBarItem" data-navApp="core" data-navExt="CustomItem">
+			
+			
+				<a href="https://www.cryptotalk.org/index.php?/support/"  data-navItem-id="34" >
+					Support
+				</a>
+			
+			
+				<ul class='ipsNavBar_secondary ipsHide' data-role='secondaryNavBar'>
+					
+
+	
+		
+		
+		<li  id='elNavSecondary_35' data-role="navBarItem" data-navApp="nexus" data-navExt="Support">
+			
+			
+				<a href="https://www.cryptotalk.org/index.php?/support/"  data-navItem-id="35" >
+					Support
+				</a>
+			
+			
+		</li>
+	
+
+	
+
+					<li class='ipsHide' id='elNavigationMore_34' data-role='navMore'>
+						<a href='#' data-ipsMenu data-ipsMenu-appendTo='#elNavigationMore_34' id='elNavigationMore_34_dropdown'>More <i class='fa fa-caret-down'></i></a>
+						<ul class='ipsHide ipsMenu ipsMenu_auto' id='elNavigationMore_34_dropdown_menu' data-role='moreDropdown'></ul>
+					</li>
+				</ul>
+			
+		</li>
+	
+
+	
+		
+		
+			
+		
+		<li class='ipsNavBar_active' data-active id='elNavSecondary_1' data-role="navBarItem" data-navApp="core" data-navExt="CustomItem">
+			
+			
+				<a href="https://www.cryptotalk.org"  data-navItem-id="1" data-navDefault>
+					Browse
+				</a>
+			
+			
+				<ul class='ipsNavBar_secondary ' data-role='secondaryNavBar'>
+					
+
+	
+		
+		
+			
+		
+		<li class='ipsNavBar_active' data-active id='elNavSecondary_8' data-role="navBarItem" data-navApp="forums" data-navExt="Forums">
+			
+			
+				<a href="https://www.cryptotalk.org/index.php"  data-navItem-id="8" data-navDefault>
+					Forums
+				</a>
+			
+			
+		</li>
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_9' data-role="navBarItem" data-navApp="cms" data-navExt="Pages">
+			
+			
+				<a href="https://www.cryptotalk.org/index.php?/articles.html/"  data-navItem-id="9" >
+					Articles
+				</a>
+			
+			
+		</li>
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_11' data-role="navBarItem" data-navApp="core" data-navExt="Guidelines">
+			
+			
+				<a href="https://www.cryptotalk.org/index.php?/guidelines/"  data-navItem-id="11" >
+					Guidelines
+				</a>
+			
+			
+		</li>
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_12' data-role="navBarItem" data-navApp="core" data-navExt="StaffDirectory">
+			
+			
+				<a href="https://www.cryptotalk.org/index.php?/staff/"  data-navItem-id="12" >
+					Staff
+				</a>
+			
+			
+		</li>
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_13' data-role="navBarItem" data-navApp="core" data-navExt="OnlineUsers">
+			
+			
+				<a href="https://www.cryptotalk.org/index.php?/online/"  data-navItem-id="13" >
+					Online Users
+				</a>
+			
+			
+		</li>
+	
+
+					<li class='ipsHide' id='elNavigationMore_1' data-role='navMore'>
+						<a href='#' data-ipsMenu data-ipsMenu-appendTo='#elNavigationMore_1' id='elNavigationMore_1_dropdown'>More <i class='fa fa-caret-down'></i></a>
+						<ul class='ipsHide ipsMenu ipsMenu_auto' id='elNavigationMore_1_dropdown_menu' data-role='moreDropdown'></ul>
+					</li>
+				</ul>
+			
+		</li>
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_38' data-role="navBarItem" data-navApp="donate" data-navExt="Donate">
+			
+			
+				<a href="https://www.cryptotalk.org/index.php?/donate/"  data-navItem-id="38" >
+					Donations
+				</a>
+			
+			
+		</li>
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_46' data-role="navBarItem" data-navApp="core" data-navExt="Leaderboard">
+			
+			
+				<a href="https://www.cryptotalk.org/index.php?/leaderboard/"  data-navItem-id="46" >
+					Leaderboard
+				</a>
+			
+			
+		</li>
+	
+
+				<li class='ipsHide' id='elNavigationMore' data-role='navMore'>
+					<a href='#' data-ipsMenu data-ipsMenu-appendTo='#elNavigationMore' id='elNavigationMore_dropdown'>More</a>
+					<ul class='ipsNavBar_secondary ipsHide' data-role='secondaryNavBar'>
+						<li class='ipsHide' id='elNavigationMore_more' data-role='navMore'>
+							<a href='#' data-ipsMenu data-ipsMenu-appendTo='#elNavigationMore_more' id='elNavigationMore_more_dropdown'>More <i class='fa fa-caret-down'></i></a>
+							<ul class='ipsHide ipsMenu ipsMenu_auto' id='elNavigationMore_more_dropdown_menu' data-role='moreDropdown'></ul>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</nav>
+
+		</div>
+		<main role="main" id="ipsLayout_body" class="ipsLayout_container"><div id="ipsLayout_contentArea">
+				<div id="ipsLayout_contentWrapper">
+					
+<nav class='ipsBreadcrumb ipsBreadcrumb_top ipsFaded_withHover'>
+	
+
+	<ul class='ipsList_inline ipsPos_right'>
+		
+		<li >
+			<a data-action="defaultStream" class='ipsType_light '  href='https://www.cryptotalk.org/index.php?/discover/'><i class='icon-newspaper'></i> <span>All Activity</span></a>
+		</li>
+		
+	</ul>
+
+	<ul itemscope itemtype="http://schema.org/BreadcrumbList">
+		<li  itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+			<a title="Home" href='https://www.cryptotalk.org/' itemscope itemtype="http://schema.org/Thing" itemprop="item">
+				<span itemprop="name"><i class='fa fa-home'></i> Home</span>
+			</a>
+			<meta itemprop="position" content="1">
+		</li>
+		
+		
+	</ul>
+</nav>
+					
+					<div id="ipsLayout_mainArea">
+						<a id="elContent"></a>
+						
+
+<div class='ipsAdvertisement ipsSpacer_both ipsSpacer_half'>
+	<ul class='ipsList_inline ipsType_center ipsList_reset ipsList_noSpacing'>
+		<li class='ipsAdvertisement_large ipsResponsive_showDesktop ipsResponsive_inlineBlock ipsAreaBackground_light'>
+			
+				<a href='https://www.cryptotalk.org/index.php?app=core&amp;module=system&amp;controller=redirect&amp;do=advertisement&amp;ad=6&amp;csrfKey=c988d11125ae9a2c406a37121a723ef8'  rel='nofollow noopener noreferrer'>
+			
+				<img src='https://www.cryptotalk.org/uploads/monthly_2016_10/GM-Affiliate_Banners-First_Release-600x90-02.png.8913723c77902d6492fa9e88cda26d55.png' alt="advertisement_alt" class='ipsImage ipsContained'>
+			
+				</a>
+			
+		</li>
+		
+		<li class='ipsAdvertisement_medium ipsResponsive_showTablet ipsResponsive_inlineBlock ipsAreaBackground_light'>
+			
+				<a href='https://www.cryptotalk.org/index.php?app=core&amp;module=system&amp;controller=redirect&amp;do=advertisement&amp;ad=6&amp;csrfKey=c988d11125ae9a2c406a37121a723ef8'  rel='nofollow noopener noreferrer'>
+			
+				<img src='https://www.cryptotalk.org/uploads/monthly_2016_10/GM-Affiliate_Banners-First_Release-600x90-02.png.8913723c77902d6492fa9e88cda26d55.png' alt="advertisement_alt" class='ipsImage ipsContained'>
+			
+				</a>
+			
+		</li>
+
+		<li class='ipsAdvertisement_small ipsResponsive_showPhone ipsResponsive_inlineBlock ipsAreaBackground_light'>
+			
+				<a href='https://www.cryptotalk.org/index.php?app=core&amp;module=system&amp;controller=redirect&amp;do=advertisement&amp;ad=6&amp;csrfKey=c988d11125ae9a2c406a37121a723ef8'  rel='nofollow noopener noreferrer'>
+			
+				<img src='https://www.cryptotalk.org/uploads/monthly_2016_10/GM-Affiliate_Banners-First_Release-600x90-02.png.8913723c77902d6492fa9e88cda26d55.png' alt="advertisement_alt" class='ipsImage ipsContained'>
+			
+				</a>
+			
+		</li>
+		
+	</ul>
+	
+</div>
+
+						
+						
+
+	<div class='cWidgetContainer '  data-role='widgetReceiver' data-orientation='horizontal' data-widgetArea='header'>
+		<ul class='ipsList_reset'>
+			
+				
+					
+					<li class='ipsWidget ipsWidget_horizontal ipsBox ipsWidgetHide ipsHide' data-blockID='app_forums_hotTopics_0fb0sfqcz' data-blockConfig="true" data-blockTitle="Popular Now" data-controller='core.front.widgets.block'></li>
+				
+					
+					<li class='ipsWidget ipsWidget_horizontal ipsBox ipsWidgetHide ipsHide' data-blockID='app_core_announcements_announcements' data-blockConfig="true" data-blockTitle="Announcements" data-controller='core.front.widgets.block'></li>
+				
+					
+					<li class='ipsWidget ipsWidget_horizontal ipsBox' data-blockID='app_forums_topicFeed_avqn3wn7h' data-blockConfig="true" data-blockTitle="Topic Feed" data-controller='core.front.widgets.block'>
+
+	<h3 class='ipsWidget_title ipsType_reset'>Topics</h3>
+
+	
+		<div class='ipsWidget_inner'>
+			<ul class='ipsDataList'>
+				
+					
+
+
+<li class="ipsDataItem ipsDataItem_responsivePhoto   ">
+	
+	<div class='ipsDataItem_main'>
+		<h4 class='ipsDataItem_title ipsContained_container'>
+			
+			
+			<div class='ipsType_break ipsContained'>
+				<a href='https://www.cryptotalk.org/index.php?/topic/1133-pivx-private-instant-verified-transaction-most-private-pos-coin-on-the-market/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/topic/1133-pivx-private-instant-verified-transaction-most-private-pos-coin-on-the-market/&amp;preview=1' data-ipsHover-timeout='1.5' >
+					
+					PIVX - Private Instant Verified Transaction - Most Private POS coin on the market
+				</a>
+
+				
+			</div>
+		</h4>
+		
+		<p class='ipsType_reset ipsType_medium ipsType_light'>
+			By 
+<a href='https://www.cryptotalk.org/index.php?/profile/780-jeff/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/780-jeff/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to Jeff's profile" class="ipsType_break">Jeff</a>,  <time datetime='2017-10-13T20:10:06Z' title='10/13/2017 08:10  PM' data-short='3 hr'>3 hours ago</time>
+			
+				in <a href="https://www.cryptotalk.org/index.php?/forum/186-pivx/">PIVX</a>
+			
+		</p>
+		<ul class='ipsList_inline ipsClearfix ipsType_light'>
+			
+		</ul>
+	</div>
+	<ul class='ipsDataItem_stats'>
+		
+			
+				<li >
+					<span class='ipsDataItem_stats_number'>0</span>
+					<span class='ipsDataItem_stats_type'> replies</span>
+				</li>
+			
+				<li >
+					<span class='ipsDataItem_stats_number'>7</span>
+					<span class='ipsDataItem_stats_type'> views</span>
+				</li>
+			
+		
+	</ul>
+	<ul class='ipsDataItem_lastPoster ipsDataItem_withPhoto'>
+		<li>
+			
+				
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/780-jeff/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/780-jeff/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Jeff's profile">
+		<img src='https://secure.gravatar.com/avatar/69f3b71d19b72c9a84c9aeb2ea6b0181?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='Jeff' itemprop="image">
+	</a>
+
+			
+		</li>
+		<li>
+			
+				
+<a href='https://www.cryptotalk.org/index.php?/profile/780-jeff/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/780-jeff/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to Jeff's profile" class="ipsType_break">Jeff</a>
+			
+		</li>
+		<li class="ipsType_light">
+			<a href='https://www.cryptotalk.org/index.php?/topic/1133-pivx-private-instant-verified-transaction-most-private-pos-coin-on-the-market/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'>
+				<time datetime='2017-10-13T20:10:06Z' title='10/13/2017 08:10  PM' data-short='3 hr'>3 hours ago</time>
+			</a>
+		</li>
+	</ul>
+	
+</li>
+				
+					
+
+
+<li class="ipsDataItem ipsDataItem_responsivePhoto   ">
+	
+	<div class='ipsDataItem_main'>
+		<h4 class='ipsDataItem_title ipsContained_container'>
+			
+			
+			<div class='ipsType_break ipsContained'>
+				<a href='https://www.cryptotalk.org/index.php?/topic/1132-skybit-1000-satoshi-every-30-minutes/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/topic/1132-skybit-1000-satoshi-every-30-minutes/&amp;preview=1' data-ipsHover-timeout='1.5' >
+					
+					Skybit-1000 satoshi every 30 minutes!
+				</a>
+
+				
+			</div>
+		</h4>
+		
+		<p class='ipsType_reset ipsType_medium ipsType_light'>
+			By 
+<a href='https://www.cryptotalk.org/index.php?/profile/227-magnet/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/227-magnet/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to magnet's profile" class="ipsType_break">magnet</a>,  <time datetime='2017-10-13T18:12:55Z' title='10/13/2017 06:12  PM' data-short='5 hr'>5 hours ago</time>
+			
+				in <a href="https://www.cryptotalk.org/index.php?/forum/64-promotions-off-site-giveaways-faucets/">Promotions / Off-Site Giveaways / Faucets</a>
+			
+		</p>
+		<ul class='ipsList_inline ipsClearfix ipsType_light'>
+			
+		</ul>
+	</div>
+	<ul class='ipsDataItem_stats'>
+		
+			
+				<li >
+					<span class='ipsDataItem_stats_number'>0</span>
+					<span class='ipsDataItem_stats_type'> replies</span>
+				</li>
+			
+				<li >
+					<span class='ipsDataItem_stats_number'>3</span>
+					<span class='ipsDataItem_stats_type'> views</span>
+				</li>
+			
+		
+	</ul>
+	<ul class='ipsDataItem_lastPoster ipsDataItem_withPhoto'>
+		<li>
+			
+				
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/227-magnet/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/227-magnet/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to magnet's profile">
+		<img src='https://secure.gravatar.com/avatar/57783e52bdfc8e221fb80d83bd755f61?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='magnet' itemprop="image">
+	</a>
+
+			
+		</li>
+		<li>
+			
+				
+<a href='https://www.cryptotalk.org/index.php?/profile/227-magnet/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/227-magnet/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to magnet's profile" class="ipsType_break">magnet</a>
+			
+		</li>
+		<li class="ipsType_light">
+			<a href='https://www.cryptotalk.org/index.php?/topic/1132-skybit-1000-satoshi-every-30-minutes/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'>
+				<time datetime='2017-10-13T18:12:55Z' title='10/13/2017 06:12  PM' data-short='5 hr'>5 hours ago</time>
+			</a>
+		</li>
+	</ul>
+	
+</li>
+				
+					
+
+
+<li class="ipsDataItem ipsDataItem_responsivePhoto   ">
+	
+	<div class='ipsDataItem_main'>
+		<h4 class='ipsDataItem_title ipsContained_container'>
+			
+			
+			<div class='ipsType_break ipsContained'>
+				<a href='https://www.cryptotalk.org/index.php?/topic/1131-claimltc-up-to-50000-litoshi-every-5-min/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/topic/1131-claimltc-up-to-50000-litoshi-every-5-min/&amp;preview=1' data-ipsHover-timeout='1.5' >
+					
+					ClaimLtc- Up to 50000 Litoshi every 5 min.
+				</a>
+
+				
+			</div>
+		</h4>
+		
+		<p class='ipsType_reset ipsType_medium ipsType_light'>
+			By 
+<a href='https://www.cryptotalk.org/index.php?/profile/227-magnet/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/227-magnet/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to magnet's profile" class="ipsType_break">magnet</a>,  <time datetime='2017-10-13T16:41:37Z' title='10/13/2017 04:41  PM' data-short='7 hr'>7 hours ago</time>
+			
+				in <a href="https://www.cryptotalk.org/index.php?/forum/64-promotions-off-site-giveaways-faucets/">Promotions / Off-Site Giveaways / Faucets</a>
+			
+		</p>
+		<ul class='ipsList_inline ipsClearfix ipsType_light'>
+			
+		</ul>
+	</div>
+	<ul class='ipsDataItem_stats'>
+		
+			
+				<li >
+					<span class='ipsDataItem_stats_number'>0</span>
+					<span class='ipsDataItem_stats_type'> replies</span>
+				</li>
+			
+				<li >
+					<span class='ipsDataItem_stats_number'>4</span>
+					<span class='ipsDataItem_stats_type'> views</span>
+				</li>
+			
+		
+	</ul>
+	<ul class='ipsDataItem_lastPoster ipsDataItem_withPhoto'>
+		<li>
+			
+				
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/227-magnet/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/227-magnet/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to magnet's profile">
+		<img src='https://secure.gravatar.com/avatar/57783e52bdfc8e221fb80d83bd755f61?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='magnet' itemprop="image">
+	</a>
+
+			
+		</li>
+		<li>
+			
+				
+<a href='https://www.cryptotalk.org/index.php?/profile/227-magnet/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/227-magnet/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to magnet's profile" class="ipsType_break">magnet</a>
+			
+		</li>
+		<li class="ipsType_light">
+			<a href='https://www.cryptotalk.org/index.php?/topic/1131-claimltc-up-to-50000-litoshi-every-5-min/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'>
+				<time datetime='2017-10-13T16:41:37Z' title='10/13/2017 04:41  PM' data-short='7 hr'>7 hours ago</time>
+			</a>
+		</li>
+	</ul>
+	
+</li>
+				
+					
+
+
+<li class="ipsDataItem ipsDataItem_responsivePhoto   ">
+	
+	<div class='ipsDataItem_main'>
+		<h4 class='ipsDataItem_title ipsContained_container'>
+			
+			
+			<div class='ipsType_break ipsContained'>
+				<a href='https://www.cryptotalk.org/index.php?/topic/1008-ico-mdx-modex-smart-contract-marketplace-pre-sale-coming-soon/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/topic/1008-ico-mdx-modex-smart-contract-marketplace-pre-sale-coming-soon/&amp;preview=1' data-ipsHover-timeout='1.5' >
+					
+					[ICO] (MDX) Modex - Smart Contract Marketplace - Pre-sale coming soon.
+				</a>
+
+				
+			</div>
+		</h4>
+		
+		<p class='ipsType_reset ipsType_medium ipsType_light'>
+			By 
+<a href='https://www.cryptotalk.org/index.php?/profile/239-vindyne8/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/239-vindyne8/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to vindyne8's profile" class="ipsType_break">vindyne8</a>,  <time datetime='2017-09-20T17:40:55Z' title='09/20/2017 05:40  PM' data-short='Sep 20'>September 20</time>
+			
+				in <a href="https://www.cryptotalk.org/index.php?/forum/53-altcoins-alternative-cryptocurrencies/">Altcoins / Alternative Cryptocurrencies </a>
+			
+		</p>
+		<ul class='ipsList_inline ipsClearfix ipsType_light'>
+			
+		</ul>
+	</div>
+	<ul class='ipsDataItem_stats'>
+		
+			
+				<li >
+					<span class='ipsDataItem_stats_number'>6</span>
+					<span class='ipsDataItem_stats_type'> replies</span>
+				</li>
+			
+				<li >
+					<span class='ipsDataItem_stats_number'>72</span>
+					<span class='ipsDataItem_stats_type'> views</span>
+				</li>
+			
+		
+	</ul>
+	<ul class='ipsDataItem_lastPoster ipsDataItem_withPhoto'>
+		<li>
+			
+				
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/239-vindyne8/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/239-vindyne8/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to vindyne8's profile">
+		<img src='https://www.cryptotalk.org/uploads/monthly_2016_11/2bEyoGf.thumb.png.ee34bd041a8f506556b19d89707e87ae.png' alt='vindyne8' itemprop="image">
+	</a>
+
+			
+		</li>
+		<li>
+			
+				
+<a href='https://www.cryptotalk.org/index.php?/profile/239-vindyne8/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/239-vindyne8/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to vindyne8's profile" class="ipsType_break">vindyne8</a>
+			
+		</li>
+		<li class="ipsType_light">
+			<a href='https://www.cryptotalk.org/index.php?/topic/1008-ico-mdx-modex-smart-contract-marketplace-pre-sale-coming-soon/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'>
+				<time datetime='2017-10-13T16:30:14Z' title='10/13/2017 04:30  PM' data-short='7 hr'>7 hours ago</time>
+			</a>
+		</li>
+	</ul>
+	
+</li>
+				
+					
+
+
+<li class="ipsDataItem ipsDataItem_responsivePhoto   ">
+	
+	<div class='ipsDataItem_main'>
+		<h4 class='ipsDataItem_title ipsContained_container'>
+			
+			
+			<div class='ipsType_break ipsContained'>
+				<a href='https://www.cryptotalk.org/index.php?/topic/1130-advise-on-oculuscoin-a-cryptocurrency/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/topic/1130-advise-on-oculuscoin-a-cryptocurrency/&amp;preview=1' data-ipsHover-timeout='1.5' >
+					
+					Advise on Oculuscoin  - A cryptocurrency
+				</a>
+
+				
+			</div>
+		</h4>
+		
+		<p class='ipsType_reset ipsType_medium ipsType_light'>
+			By 
+<a href='https://www.cryptotalk.org/index.php?/profile/779-subhashc/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/779-subhashc/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to subhashc's profile" class="ipsType_break">subhashc</a>,  <time datetime='2017-10-13T15:11:41Z' title='10/13/2017 03:11  PM' data-short='8 hr'>8 hours ago</time>
+			
+				in <a href="https://www.cryptotalk.org/index.php?/forum/64-promotions-off-site-giveaways-faucets/">Promotions / Off-Site Giveaways / Faucets</a>
+			
+		</p>
+		<ul class='ipsList_inline ipsClearfix ipsType_light'>
+			
+		</ul>
+	</div>
+	<ul class='ipsDataItem_stats'>
+		
+			
+				<li >
+					<span class='ipsDataItem_stats_number'>0</span>
+					<span class='ipsDataItem_stats_type'> replies</span>
+				</li>
+			
+				<li >
+					<span class='ipsDataItem_stats_number'>12</span>
+					<span class='ipsDataItem_stats_type'> views</span>
+				</li>
+			
+		
+	</ul>
+	<ul class='ipsDataItem_lastPoster ipsDataItem_withPhoto'>
+		<li>
+			
+				
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/779-subhashc/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/779-subhashc/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to subhashc's profile">
+		<img src='https://secure.gravatar.com/avatar/76443859cc12e03e7b3d1bba8e998639?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='subhashc' itemprop="image">
+	</a>
+
+			
+		</li>
+		<li>
+			
+				
+<a href='https://www.cryptotalk.org/index.php?/profile/779-subhashc/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/779-subhashc/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to subhashc's profile" class="ipsType_break">subhashc</a>
+			
+		</li>
+		<li class="ipsType_light">
+			<a href='https://www.cryptotalk.org/index.php?/topic/1130-advise-on-oculuscoin-a-cryptocurrency/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'>
+				<time datetime='2017-10-13T15:11:41Z' title='10/13/2017 03:11  PM' data-short='8 hr'>8 hours ago</time>
+			</a>
+		</li>
+	</ul>
+	
+</li>
+				
+			</ul>
+		</div>
+	
+</li>
+				
+			
+		</ul>
+	</div>
+
+						
+
+
+<div class='ipsPageHeader ipsClearfix ipsSpacer_bottom'>
+	<h1 class='ipsType_pageTitle'>Forums</h1>
+	
+</div>
+
+
+
+<section>
+	<ol class='ipsList_reset cForumList' data-controller='core.global.core.table, forums.front.forum.forumList' data-baseURL=''>
+		
+			
+			<li data-categoryID='61' class='cForumRow ipsBox ipsSpacer_bottom'>
+				<h2 class="ipsType_sectionTitle ipsType_reset cForumTitle">
+					<a href='#' class='ipsPos_right ipsJS_show ipsType_noUnderline cForumToggle' data-action='toggleCategory' data-ipsTooltip title='Toggle this category'></a>
+					<a href='https://www.cryptotalk.org/index.php?/forum/61-base-station/'>Base Station</a>
+				</h2>
+				
+					<ol class="ipsDataList ipsDataList_large ipsDataList_zebra ipsAreaBackground_reset" data-role="forums">
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="62">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/62-crypto-talk-announcements/">Crypto Talk Announcements</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	official cryptotalk announcement threads.
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">212</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/774-max-frost/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/774-max-frost/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Max Frost's profile">
+		<img src='https://secure.gravatar.com/avatar/078abd197dbc971f1230a0a171f38ab8?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='Max Frost' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/1119-prosenselive-vr-platform-token-sale-ico/&amp;do=getNewComment" title='ProsenseLive VR Platform Token Sale! ICO'>ProsenseLive VR Platform T&hellip;</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/774-max-frost/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/774-max-frost/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to Max Frost's profile" class="ipsType_break">Max Frost</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/1119-prosenselive-vr-platform-token-sale-ico/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-10-12T07:47:16Z' title='10/12/2017 07:47  AM' data-short='1 dy'>Yesterday at 07:47  AM</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="63">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/63-giveaways/">Giveaways</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	giveaways happening on cryptotalk only.
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">156</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/766-elvafeng/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/766-elvafeng/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to elvafeng's profile">
+		<img src='https://secure.gravatar.com/avatar/a8a48bd8f116c4c2e02af9e07b70cc28?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='elvafeng' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/1094-remind-the-players-that-they-were-facing-nothing-new/&amp;do=getNewComment" title='remind the players that they were facing nothing new'>remind the players that th&hellip;</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/766-elvafeng/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/766-elvafeng/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to elvafeng's profile" class="ipsType_break">elvafeng</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/1094-remind-the-players-that-they-were-facing-nothing-new/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-10-08T09:15:19Z' title='10/08/2017 09:15  AM' data-short='5 dy'>Sunday at 09:15  AM</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="64">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/64-promotions-off-site-giveaways-faucets/">Promotions / Off-Site Giveaways / Faucets</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Promotions, Faucets, and Giveaways which are given away on other websites.
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">227</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/227-magnet/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/227-magnet/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to magnet's profile">
+		<img src='https://secure.gravatar.com/avatar/57783e52bdfc8e221fb80d83bd755f61?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='magnet' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/1132-skybit-1000-satoshi-every-30-minutes/&amp;do=getNewComment" title='Skybit-1000 satoshi every 30 minutes!'>Skybit-1000 satoshi every &hellip;</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/227-magnet/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/227-magnet/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to magnet's profile" class="ipsType_break">magnet</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/1132-skybit-1000-satoshi-every-30-minutes/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-10-13T18:12:55Z' title='10/13/2017 06:12  PM' data-short='5 hr'>5 hours ago</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="138">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/138-community-guidelines-rules/">Community Guidelines & Rules</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">2</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/740-christianringo/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/740-christianringo/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to christianringo's profile">
+		<img src='https://secure.gravatar.com/avatar/3c04f18d91d9cf2dd59c736e2be3be98?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='christianringo' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/1021-some-of-the-significant-changes-that-prime-university-hockey/&amp;do=getNewComment" title='Some of the significant changes that prime university hockey'>Some of the significant ch&hellip;</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/740-christianringo/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/740-christianringo/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to christianringo's profile" class="ipsType_break">christianringo</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/1021-some-of-the-significant-changes-that-prime-university-hockey/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-09-22T03:49:50Z' title='09/22/2017 03:49  AM' data-short='Sep 22'>September 22</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+					</ol>
+				
+			</li>
+			
+		
+			
+			<li data-categoryID='19' class='cForumRow ipsBox ipsSpacer_bottom'>
+				<h2 class="ipsType_sectionTitle ipsType_reset cForumTitle">
+					<a href='#' class='ipsPos_right ipsJS_show ipsType_noUnderline cForumToggle' data-action='toggleCategory' data-ipsTooltip title='Toggle this category'></a>
+					<a href='https://www.cryptotalk.org/index.php?/forum/19-news-talk/'>News / Talk</a>
+				</h2>
+				
+					<ol class="ipsDataList ipsDataList_large ipsDataList_zebra ipsAreaBackground_reset" data-role="forums">
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="22">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/22-news/">News</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	News feeds from various cryptocoin informational sources.
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">98</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/628-sabrina8089/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/628-sabrina8089/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to sabrina8089's profile">
+		<img src='https://secure.gravatar.com/avatar/cd8599a0252622b8bed65381fafbfdaa?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='sabrina8089' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/1123-bitcoin-price-near-its-5000-record/&amp;do=getNewComment" title='Bitcoin Price near its $5000 record'>Bitcoin Price near its $50&hellip;</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/628-sabrina8089/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/628-sabrina8089/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to sabrina8089's profile" class="ipsType_break">sabrina8089</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/1123-bitcoin-price-near-its-5000-record/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-10-12T17:11:18Z' title='10/12/2017 05:11  PM' data-short='1 dy'>Yesterday at 05:11  PM</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="20">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/20-crypto-discussions/">Crypto Discussions</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Cryptocoin and Cryptocurrency general discussions.
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">110</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/778-oculuscoin/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/778-oculuscoin/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to oculuscoin's profile">
+		<img src='https://secure.gravatar.com/avatar/efe54c749281d4d6e25fde88b6142aaf?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='oculuscoin' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/1127-oculuscoin-new-era-cryptocurrency/&amp;do=getNewComment" title='Oculuscoin - New era cryptocurrency'>Oculuscoin - New era crypt&hellip;</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/778-oculuscoin/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/778-oculuscoin/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to oculuscoin's profile" class="ipsType_break">oculuscoin</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/1127-oculuscoin-new-era-cryptocurrency/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-10-13T09:34:58Z' title='10/13/2017 09:34  AM' data-short='14 hr'>14 hours ago</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="54">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/54-beginners-help/">Beginners & Help </a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Ask Beginner questions or seek General Help from the Bitcoin Community
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">34</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/761-nascat/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/761-nascat/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Nascat's profile">
+		<img src='https://secure.gravatar.com/avatar/a0a7e457b0956ebb8d4c8e26f29756eb?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='Nascat' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/1077-security/&amp;do=getNewComment" title='Security'>Security</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/761-nascat/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/761-nascat/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to Nascat's profile" class="ipsType_break">Nascat</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/1077-security/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-10-05T15:14:07Z' title='10/05/2017 03:14  PM' data-short='Oct 5'>October 5</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="21">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/21-new-members/">New Members</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Are you a new member? Introduce yourself to the community.
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">126</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/768-dr_econ/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/768-dr_econ/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to dr_econ's profile">
+		<img src='https://secure.gravatar.com/avatar/857393f6c43c940bbf2b1b20af242ed7?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='dr_econ' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/1106-dr_econ-intro/&amp;do=getNewComment" title='dr_econ intro'>dr_econ intro</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/768-dr_econ/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/768-dr_econ/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to dr_econ's profile" class="ipsType_break">dr_econ</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/1106-dr_econ-intro/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-10-10T05:13:00Z' title='10/10/2017 05:13  AM' data-short='3 dy'>Tuesday at 05:13  AM</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+					</ol>
+				
+			</li>
+			
+		
+			
+			<li data-categoryID='31' class='cForumRow ipsBox ipsSpacer_bottom'>
+				<h2 class="ipsType_sectionTitle ipsType_reset cForumTitle">
+					<a href='#' class='ipsPos_right ipsJS_show ipsType_noUnderline cForumToggle' data-action='toggleCategory' data-ipsTooltip title='Toggle this category'></a>
+					<a href='https://www.cryptotalk.org/index.php?/forum/31-economy/'>Economy</a>
+				</h2>
+				
+					<ol class="ipsDataList ipsDataList_large ipsDataList_zebra ipsAreaBackground_reset" data-role="forums">
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="53">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/53-altcoins-alternative-cryptocurrencies/">Altcoins / Alternative Cryptocurrencies </a>
+				
+				
+			</h4>
+			
+				<ul class="ipsDataItem_subList ipsList_inline">
+					
+						<li class="">
+							<a href="https://www.cryptotalk.org/index.php?/forum/115-announcements-alt-coins/">Announcements (Alt Coins)</a>
+						</li>
+					
+						<li class="">
+							<a href="https://www.cryptotalk.org/index.php?/forum/188-xtrabytes-xby/">xtrabytes XBY</a>
+						</li>
+					
+						<li class="">
+							<a href="https://www.cryptotalk.org/index.php?/forum/186-pivx/">PIVX</a>
+						</li>
+					
+						<li class="">
+							<a href="https://www.cryptotalk.org/index.php?/forum/51-monero-xmr/">Monero XMR</a>
+						</li>
+					
+						<li class="">
+							<a href="https://www.cryptotalk.org/index.php?/forum/33-ethereum-eth/">Ethereum ETH</a>
+						</li>
+					
+						<li class="">
+							<a href="https://www.cryptotalk.org/index.php?/forum/32-dash-dash/">Dash DASH</a>
+						</li>
+					
+						<li class="">
+							<a href="https://www.cryptotalk.org/index.php?/forum/45-litecoin-ltc/">Litecoin LTC</a>
+						</li>
+					
+						<li class="">
+							<a href="https://www.cryptotalk.org/index.php?/forum/145-bellacoin-bella/">BellaCoin BELLA</a>
+						</li>
+					
+						<li class="">
+							<a href="https://www.cryptotalk.org/index.php?/forum/36-factoid-fct/">Factoid FCT</a>
+						</li>
+					
+				</ul>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Discussion of all Alternate Cryptocurrencies / Altcoins
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">674</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/780-jeff/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/780-jeff/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Jeff's profile">
+		<img src='https://secure.gravatar.com/avatar/69f3b71d19b72c9a84c9aeb2ea6b0181?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='Jeff' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/1133-pivx-private-instant-verified-transaction-most-private-pos-coin-on-the-market/&amp;do=getNewComment" title='PIVX - Private Instant Verified Transaction - Most Private POS coin on the market'>PIVX - Private Instant Ver&hellip;</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/780-jeff/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/780-jeff/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to Jeff's profile" class="ipsType_break">Jeff</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/1133-pivx-private-instant-verified-transaction-most-private-pos-coin-on-the-market/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-10-13T20:10:06Z' title='10/13/2017 08:10  PM' data-short='3 hr'>3 hours ago</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="56">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/56-marketplace/">Marketplace </a>
+				
+				
+			</h4>
+			
+				<ul class="ipsDataItem_subList ipsList_inline">
+					
+						<li class="">
+							<a href="https://www.cryptotalk.org/index.php?/forum/73-service-announcments/">Service Announcments</a>
+						</li>
+					
+						<li class="">
+							<a href="https://www.cryptotalk.org/index.php?/forum/113-service-discussion/">Service Discussion</a>
+						</li>
+					
+						<li class="">
+							<a href="https://www.cryptotalk.org/index.php?/forum/58-goods/">Goods</a>
+						</li>
+					
+						<li class="">
+							<a href="https://www.cryptotalk.org/index.php?/forum/57-lending/">Lending </a>
+						</li>
+					
+						<li class="">
+							<a href="https://www.cryptotalk.org/index.php?/forum/59-auctions/">Auctions</a>
+						</li>
+					
+						<li class="">
+							<a href="https://www.cryptotalk.org/index.php?/forum/111-currency-exchange/">Currency Exchange</a>
+						</li>
+					
+						<li class="">
+							<a href="https://www.cryptotalk.org/index.php?/forum/106-bitcoin-store/">Bitcoin Store</a>
+						</li>
+					
+						<li class="">
+							<a href="https://www.cryptotalk.org/index.php?/forum/112-gambling/">Gambling</a>
+						</li>
+					
+				</ul>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Bitcoin Market place where you can buy and sell with people all over the world for bitcoin.
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">154</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/755-zumminer/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/755-zumminer/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to ZUMMINER's profile">
+		<img src='https://secure.gravatar.com/avatar/b99c79af03a5812ee4aff5ff477f1435?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='ZUMMINER' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/1068-ann-freedom-of-action-with-zumminer/&amp;do=getNewComment" title='[ANN] Freedom of action with ZUMMINER'>[ANN] Freedom of action wi&hellip;</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/755-zumminer/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/755-zumminer/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to ZUMMINER's profile" class="ipsType_break">ZUMMINER</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/1068-ann-freedom-of-action-with-zumminer/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-10-03T15:59:27Z' title='10/03/2017 03:59  PM' data-short='Oct 3'>October 3</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="52">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/52-trading-discussion/">Trading Discussion </a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Discussion about doing business with Bitcoin. Best trading practices, delivery methods etc.
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">28</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/721-instaforex-bella/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/721-instaforex-bella/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Instaforex Bella's profile">
+		<img src='https://secure.gravatar.com/avatar/f3e4fbdd12dc55dffdf30a080b35b08d?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='Instaforex Bella' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/910-instaforex-company-news/&amp;do=getNewComment" title='InstaForex Company News'>InstaForex Company News</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/721-instaforex-bella/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/721-instaforex-bella/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to Instaforex Bella's profile" class="ipsType_break">Instaforex Bella</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/910-instaforex-company-news/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-10-11T08:15:38Z' title='10/11/2017 08:15  AM' data-short='2 dy'>Wednesday at 08:15  AM</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="44">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/44-bitcoin-btc/">Bitcoin BTC</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">68</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/768-dr_econ/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/768-dr_econ/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to dr_econ's profile">
+		<img src='https://secure.gravatar.com/avatar/857393f6c43c940bbf2b1b20af242ed7?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='dr_econ' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/1104-3-factors-that-cause-bitcoin-price-swings/&amp;do=getNewComment" title='3 Factors that Cause Bitcoin Price Swings'>3 Factors that Cause Bitco&hellip;</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/768-dr_econ/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/768-dr_econ/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to dr_econ's profile" class="ipsType_break">dr_econ</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/1104-3-factors-that-cause-bitcoin-price-swings/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-10-10T05:20:38Z' title='10/10/2017 05:20  AM' data-short='3 dy'>Tuesday at 05:20  AM</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="110">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/110-economics/">Economics</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="147">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/147-scam-accusations/">Scam accusations</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Discuss possible scams here
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">4</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/656-markjlunder/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/656-markjlunder/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to MarkJLunder's profile">
+		<img src='https://secure.gravatar.com/avatar/2a995ba72e3d814fa4fcd66fdb0b242d?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='MarkJLunder' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/907-trading-cryptocurrencies-is-it-a-scam/&amp;do=getNewComment" title='Trading Cryptocurrencies - is it a scam?'>Trading Cryptocurrencies -&hellip;</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/656-markjlunder/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/656-markjlunder/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to MarkJLunder's profile" class="ipsType_break">MarkJLunder</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/907-trading-cryptocurrencies-is-it-a-scam/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-08-28T09:52:33Z' title='08/28/2017 09:52  AM' data-short='Aug 28'>August 28</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+					</ol>
+				
+			</li>
+			
+		
+			
+			<li data-categoryID='23' class='cForumRow ipsBox ipsSpacer_bottom'>
+				<h2 class="ipsType_sectionTitle ipsType_reset cForumTitle">
+					<a href='#' class='ipsPos_right ipsJS_show ipsType_noUnderline cForumToggle' data-action='toggleCategory' data-ipsTooltip title='Toggle this category'></a>
+					<a href='https://www.cryptotalk.org/index.php?/forum/23-support-development/'>Support / Development</a>
+				</h2>
+				
+					<ol class="ipsDataList ipsDataList_large ipsDataList_zebra ipsAreaBackground_reset" data-role="forums">
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="27">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/27-developer-talk/">Developer Talk</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Forum for Developers to talk about development of new and existing cryptocoin features.
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">48</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/19-bvalis/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/19-bvalis/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to bvalis's profile">
+		<img src='https://www.cryptotalk.org/uploads/monthly_2016_11/crp.thumb.png.b7d21b619f531c7eed7edeca221354af.png' alt='bvalis' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/729-how-should-i-start-my-coin-dev-career/&amp;do=getNewComment" title='How should I start my coin dev career?'>How should I start my coin&hellip;</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/19-bvalis/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/19-bvalis/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to bvalis's profile" class="ipsType_break">bvalis</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/729-how-should-i-start-my-coin-dev-career/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-09-10T09:19:14Z' title='09/10/2017 09:19  AM' data-short='Sep 10'>September 10</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="25">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/25-tutorials-guides/">Tutorials / Guides</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Cryptocoin tutorials written by members
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">5</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/1-tdkmatt/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/1-tdkmatt/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to TDKMATT's profile">
+		<img src='https://www.cryptotalk.org/uploads/monthly_2016_11/287d2a4efa71b8bc4779eacdff71c0fd.thumb.jpg.40f5a086c5547686cf732236b9fb87a0.jpg' alt='TDKMATT' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/86-minergate-setup/&amp;do=getNewComment" title='Minergate Setup'>Minergate Setup</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/1-tdkmatt/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/1-tdkmatt/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to TDKMATT's profile" class="ipsType_break">TDKMATT</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/86-minergate-setup/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2016-10-31T12:15:29Z' title='10/31/2016 12:15  PM' data-short='Oct 31'>October 31, 2016</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="26">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/26-technical-support/">Technical Support</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Support forum for technical support questions and answers.
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+					</ol>
+				
+			</li>
+			
+		
+			
+			<li data-categoryID='69' class='cForumRow ipsBox ipsSpacer_bottom'>
+				<h2 class="ipsType_sectionTitle ipsType_reset cForumTitle">
+					<a href='#' class='ipsPos_right ipsJS_show ipsType_noUnderline cForumToggle' data-action='toggleCategory' data-ipsTooltip title='Toggle this category'></a>
+					<a href='https://www.cryptotalk.org/index.php?/forum/69-wallets/'>Wallets</a>
+				</h2>
+				
+					<ol class="ipsDataList ipsDataList_large ipsDataList_zebra ipsAreaBackground_reset" data-role="forums">
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="114">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/114-software-wallets/">Software Wallets</a>
+				
+				
+			</h4>
+			
+				<ul class="ipsDataItem_subList ipsList_inline">
+					
+						<li class="">
+							<a href="https://www.cryptotalk.org/index.php?/forum/85-exodus/">Exodus</a>
+						</li>
+					
+						<li class="">
+							<a href="https://www.cryptotalk.org/index.php?/forum/94-jaxx/">Jaxx</a>
+						</li>
+					
+				</ul>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">5</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/6-dionysus/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/6-dionysus/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Dionysus's profile">
+		<img src='https://www.cryptotalk.org/uploads/monthly_2016_11/FgeOPzj.thumb.png.aed40faadebf7de4954e6b1832ad9496.png' alt='Dionysus' itemprop="image">
+	</a>
+</li>
+					
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/6-dionysus/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/6-dionysus/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to Dionysus's profile" class="ipsType_break">Dionysus</a></li>
+					
+						<li class="ipsType_light"><time datetime='2016-11-04T10:28:51Z' title='11/04/2016 10:28  AM' data-short='Nov 4'>November 4, 2016</time></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="76">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/76-hardware-wallets/">Hardware Wallets</a>
+				
+				
+			</h4>
+			
+				<ul class="ipsDataItem_subList ipsList_inline">
+					
+						<li class="">
+							<a href="https://www.cryptotalk.org/index.php?/forum/78-trezor/">Trezor</a>
+						</li>
+					
+				</ul>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+					</ol>
+				
+			</li>
+			
+		
+			
+			<li data-categoryID='28' class='cForumRow ipsBox ipsSpacer_bottom'>
+				<h2 class="ipsType_sectionTitle ipsType_reset cForumTitle">
+					<a href='#' class='ipsPos_right ipsJS_show ipsType_noUnderline cForumToggle' data-action='toggleCategory' data-ipsTooltip title='Toggle this category'></a>
+					<a href='https://www.cryptotalk.org/index.php?/forum/28-mining/'>Mining</a>
+				</h2>
+				
+					<ol class="ipsDataList ipsDataList_large ipsDataList_zebra ipsAreaBackground_reset" data-role="forums">
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="119">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/119-cryptopoolio/">Cryptopool.io</a>
+				
+				
+			</h4>
+			
+				<ul class="ipsDataItem_subList ipsList_inline">
+					
+						<li class="">
+							<a href="https://www.cryptotalk.org/index.php?/forum/181-server-status/">Server Status</a>
+						</li>
+					
+						<li class="">
+							<a href="https://www.cryptotalk.org/index.php?/forum/123-cryptopoolio/">Cryptopool.io</a>
+						</li>
+					
+						<li class="">
+							<a href="https://www.cryptotalk.org/index.php?/forum/120-announcments/">Announcments</a>
+						</li>
+					
+						<li class="">
+							<a href="https://www.cryptotalk.org/index.php?/forum/121-pool-support/">Pool Support</a>
+						</li>
+					
+				</ul>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Official CryptoTalk.org Mining Pool
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">4</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/19-bvalis/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/19-bvalis/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to bvalis's profile">
+		<img src='https://www.cryptotalk.org/uploads/monthly_2016_11/crp.thumb.png.b7d21b619f531c7eed7edeca221354af.png' alt='bvalis' itemprop="image">
+	</a>
+</li>
+					
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/19-bvalis/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/19-bvalis/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to bvalis's profile" class="ipsType_break">bvalis</a></li>
+					
+						<li class="ipsType_light"><time datetime='2016-11-29T06:23:00Z' title='11/29/2016 06:23  AM' data-short='Nov 29'>November 29, 2016</time></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="29">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/29-mining-discussions/">Mining Discussions</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Discussions about cryptocoin and cryptocurrency mining and hardware.
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">2</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/584-luhan/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/584-luhan/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to luhan's profile">
+		<img src='https://secure.gravatar.com/avatar/dd1435748831e7d7fbfbeaa2eb3750cc?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='luhan' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/739-is-mining-ether-ethereum-profitable/&amp;do=getNewComment" title='Is mining Ether (Ethereum) profitable?'>Is mining Ether (Ethereum)&hellip;</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/584-luhan/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/584-luhan/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to luhan's profile" class="ipsType_break">luhan</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/739-is-mining-ether-ethereum-profitable/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-06-26T11:11:35Z' title='06/26/2017 11:11  AM' data-short='Jun 26'>June 26</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="30">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/30-mining-pools/">Mining Pools</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Discussions about cryptocoin and cryptocurrency mining pools.
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">31</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/445-ankur-gupta/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/445-ankur-gupta/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Ankur Gupta's profile">
+		<img src='https://secure.gravatar.com/avatar/c0a35976ec0235893524f00e0a042b71?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='Ankur Gupta' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/665-mining-review-required/&amp;do=getNewComment" title='Mining review required?'>Mining review required?</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/445-ankur-gupta/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/445-ankur-gupta/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to Ankur Gupta's profile" class="ipsType_break">Ankur Gupta</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/665-mining-review-required/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-04-03T19:18:06Z' title='04/03/2017 07:18  PM' data-short='Apr 3'>April 3</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="109">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/109-mining-software-miners/">Mining Software (Miners)</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">2</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/516-jpitrader/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/516-jpitrader/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to JPITrader's profile">
+		<img src='https://secure.gravatar.com/avatar/44ec5abe23d4b76bc69038f756af76d0?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='JPITrader' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/710-bytecoin-forum/&amp;do=getNewComment" title='ByteCoin Forum'>ByteCoin Forum</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/516-jpitrader/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/516-jpitrader/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to JPITrader's profile" class="ipsType_break">JPITrader</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/710-bytecoin-forum/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-05-26T07:42:20Z' title='05/26/2017 07:42  AM' data-short='May 26'>May 26</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="50">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/50-cloud-mining/">Cloud Mining</a>
+				
+				
+			</h4>
+			
+				<ul class="ipsDataItem_subList ipsList_inline">
+					
+						<li class="">
+							<a href="https://www.cryptotalk.org/index.php?/forum/70-genesis-mining/">Genesis Mining</a>
+						</li>
+					
+				</ul>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">31</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/762-ruk96/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/762-ruk96/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Ruk96's profile">
+		<img src='https://secure.gravatar.com/avatar/52d93f5ca52e2c4834bf8e67c876a7fe?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='Ruk96' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/1081-what-is-a-scam-site-site-review/&amp;do=getNewComment" title='What is a scam site? (Site Review)'>What is a scam site? (Site&hellip;</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/762-ruk96/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/762-ruk96/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to Ruk96's profile" class="ipsType_break">Ruk96</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/1081-what-is-a-scam-site-site-review/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-10-05T18:33:38Z' title='10/05/2017 06:33  PM' data-short='Oct 5'>October 5</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="46">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/46-hardware/">Hardware</a>
+				
+				
+			</h4>
+			
+				<ul class="ipsDataItem_subList ipsList_inline">
+					
+						<li class="">
+							<a href="https://www.cryptotalk.org/index.php?/forum/104-baikal-q-a/">Baikal Q & A</a>
+						</li>
+					
+				</ul>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">26</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/672-imperiumminer/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/672-imperiumminer/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to imperiumminer's profile">
+		<img src='https://secure.gravatar.com/avatar/e7faaaea3a17edeb712859044cef73af?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='imperiumminer' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/899-imperium-miner-shop-bitcoin-mining-%E2%80%93-litecoin-mining-%E2%80%93-ethereum-mining-asic-miner-shop/&amp;do=getNewComment" title='Imperium Miner Shop - Bitcoin mining – Litecoin mining – Ethereum mining - ASIC Miner Shop'>Imperium Miner Shop - Bitc&hellip;</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/672-imperiumminer/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/672-imperiumminer/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to imperiumminer's profile" class="ipsType_break">imperiumminer</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/899-imperium-miner-shop-bitcoin-mining-%E2%80%93-litecoin-mining-%E2%80%93-ethereum-mining-asic-miner-shop/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-10-02T14:44:03Z' title='10/02/2017 02:44  PM' data-short='Oct 2'>October 2</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+					</ol>
+				
+			</li>
+			
+		
+			
+			<li data-categoryID='37' class='cForumRow ipsBox ipsSpacer_bottom'>
+				<h2 class="ipsType_sectionTitle ipsType_reset cForumTitle">
+					<a href='#' class='ipsPos_right ipsJS_show ipsType_noUnderline cForumToggle' data-action='toggleCategory' data-ipsTooltip title='Toggle this category'></a>
+					<a href='https://www.cryptotalk.org/index.php?/forum/37-exchanges/'>Exchanges</a>
+				</h2>
+				
+					<ol class="ipsDataList ipsDataList_large ipsDataList_zebra ipsAreaBackground_reset" data-role="forums">
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="143">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/143-discussion/">Discussion</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	General Exchange Discussion Thread
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">2</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/1-tdkmatt/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/1-tdkmatt/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to TDKMATT's profile">
+		<img src='https://www.cryptotalk.org/uploads/monthly_2016_11/287d2a4efa71b8bc4779eacdff71c0fd.thumb.jpg.40f5a086c5547686cf732236b9fb87a0.jpg' alt='TDKMATT' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/544-welcome-to-doufex/&amp;do=getNewComment" title='Welcome to Doufex'>Welcome to Doufex</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/1-tdkmatt/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/1-tdkmatt/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to TDKMATT's profile" class="ipsType_break">TDKMATT</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/544-welcome-to-doufex/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2016-11-16T13:34:20Z' title='11/16/2016 01:34  PM' data-short='Nov 16'>November 16, 2016</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+					</ol>
+				
+			</li>
+			
+		
+			
+			<li data-categoryID='96' class='cForumRow ipsBox ipsSpacer_bottom'>
+				<h2 class="ipsType_sectionTitle ipsType_reset cForumTitle">
+					<a href='#' class='ipsPos_right ipsJS_show ipsType_noUnderline cForumToggle' data-action='toggleCategory' data-ipsTooltip title='Toggle this category'></a>
+					<a href='https://www.cryptotalk.org/index.php?/forum/96-other/'>Other</a>
+				</h2>
+				
+					<ol class="ipsDataList ipsDataList_large ipsDataList_zebra ipsAreaBackground_reset" data-role="forums">
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="99">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/99-the-forum/">The Forum</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	The forum in focus - this is the place to discuss the forum itself. Missing a section? Questions about the rules? Issues with a specific function? We'll sort it out with you, right here!
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">8</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/1-tdkmatt/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/1-tdkmatt/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to TDKMATT's profile">
+		<img src='https://www.cryptotalk.org/uploads/monthly_2016_11/287d2a4efa71b8bc4779eacdff71c0fd.thumb.jpg.40f5a086c5547686cf732236b9fb87a0.jpg' alt='TDKMATT' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/419-entire-section-for-exodus/&amp;do=getNewComment" title='Entire section for Exodus'>Entire section for Exodus</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/1-tdkmatt/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/1-tdkmatt/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to TDKMATT's profile" class="ipsType_break">TDKMATT</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/419-entire-section-for-exodus/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2016-11-04T00:40:58Z' title='11/04/2016 12:40  AM' data-short='Nov 4'>November 4, 2016</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="72">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/72-meta/">Meta</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Discussion about the CryptoTalk Forum
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">60</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/773-gotamogo/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/773-gotamogo/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to gotamogo's profile">
+		<img src='https://secure.gravatar.com/avatar/84614ab18419d3c3487c11c110d9aced?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='gotamogo' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/527-closed-giveaway-topic-when-i-still-want-to-comment/&amp;do=getNewComment" title='Closed giveaway topic when I still want to comment'>Closed giveaway topic when&hellip;</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/773-gotamogo/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/773-gotamogo/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to gotamogo's profile" class="ipsType_break">gotamogo</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/527-closed-giveaway-topic-when-i-still-want-to-comment/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-10-12T06:13:57Z' title='10/12/2017 06:13  AM' data-short='1 dy'>Yesterday at 06:13  AM</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="98">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/98-feedback/">FeedBack</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="97">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/97-site-support/">Site Support</a>
+				
+				
+			</h4>
+			
+				<ul class="ipsDataItem_subList ipsList_inline">
+					
+						<li class="">
+							<a href="https://www.cryptotalk.org/index.php?/forum/105-support-ticket/">Support Ticket</a>
+						</li>
+					
+				</ul>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+					</ol>
+				
+			</li>
+			
+		
+			
+			<li data-categoryID='34' class='cForumRow ipsBox ipsSpacer_bottom'>
+				<h2 class="ipsType_sectionTitle ipsType_reset cForumTitle">
+					<a href='#' class='ipsPos_right ipsJS_show ipsType_noUnderline cForumToggle' data-action='toggleCategory' data-ipsTooltip title='Toggle this category'></a>
+					<a href='https://www.cryptotalk.org/index.php?/forum/34-the-lounge/'>The Lounge</a>
+				</h2>
+				
+					<ol class="ipsDataList ipsDataList_large ipsDataList_zebra ipsAreaBackground_reset" data-role="forums">
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="35">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/35-off-topic/">Off Topic</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">68</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/473-jacobjames21297/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/473-jacobjames21297/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Jacobjames21297's profile">
+		<img src='https://secure.gravatar.com/avatar/a7b341e5d7392918550e47c877093b69?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='Jacobjames21297' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/689-baikalminercom-is-a-crook-and-a-scam-s-or-no-s-they-are-all-bullshit/&amp;do=getNewComment" title='baikalminer.com is a CROOK and a SCAM (s or no s, they are all BULLSHIT)'>baikalminer.com is a CROOK&hellip;</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/473-jacobjames21297/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/473-jacobjames21297/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to Jacobjames21297's profile" class="ipsType_break">Jacobjames21297</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/689-baikalminercom-is-a-crook-and-a-scam-s-or-no-s-they-are-all-bullshit/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-05-10T17:59:26Z' title='05/10/2017 05:59  PM' data-short='May 10'>May 10</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="55">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/55-politics-society/">Politics & Society </a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Political and Societal issues and their relation to Bitcoin
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">6</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/33-happy_tune/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/33-happy_tune/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to happy_tune's profile">
+		<img src='https://www.cryptotalk.org/uploads/monthly_2016_10/note-de-musique-gif.thumb.gif.c3cf84ce3e212693dc7f2ada1fab4980.gif' alt='happy_tune' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/43-the-invisible-politics-of-bitcoin-governance-crisis-of-a-decentralised-infrastructure/&amp;do=getNewComment" title='The invisible politics of Bitcoin: governance crisis of a decentralised infrastructure'>The invisible politics of &hellip;</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/33-happy_tune/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/33-happy_tune/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to happy_tune's profile" class="ipsType_break">happy_tune</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/43-the-invisible-politics-of-bitcoin-governance-crisis-of-a-decentralised-infrastructure/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2016-10-27T17:34:37Z' title='10/27/2016 05:34  PM' data-short='Oct 27'>October 27, 2016</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="60">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/60-bitcoin-alt-coin-faucets/">Bitcoin / Alt-Coin Faucets </a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Bitcoin / Alt-Coin  Faucet  Related 
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">14</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/3-unknown/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/3-unknown/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Unknown's profile">
+		<img src='https://www.cryptotalk.org/uploads/monthly_2016_10/test.thumb.png.0264476ea0cb1a2167cf353dea555641.png' alt='Unknown' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/51-btc-bitcoin-faucet/&amp;do=getNewComment" title='[ BTC ] Bitcoin Faucet'>[ BTC ] Bitcoin Faucet</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/3-unknown/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/3-unknown/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to Unknown's profile" class="ipsType_break">Unknown</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/51-btc-bitcoin-faucet/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2016-11-07T01:48:05Z' title='11/07/2016 01:48  AM' data-short='Nov 7'>November 7, 2016</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="100">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/100-graphic-design/">Graphic Design</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="102">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/102-gaming/">Gaming</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">14</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/763-phenvargas/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/763-phenvargas/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to phenvargas's profile">
+		<img src='https://secure.gravatar.com/avatar/3dc1c8d7a2ebe0b97fb77a5f4425f716?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='phenvargas' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/1095-is-there-any-trusted-bitcoin-online-casino-in-asia/&amp;do=getNewComment" title='Is There Any Trusted Bitcoin Online Casino in Asia?'>Is There Any Trusted Bitco&hellip;</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/763-phenvargas/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/763-phenvargas/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to phenvargas's profile" class="ipsType_break">phenvargas</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/1095-is-there-any-trusted-bitcoin-online-casino-in-asia/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-10-08T11:25:20Z' title='10/08/2017 11:25  AM' data-short='5 dy'>Sunday at 11:25  AM</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="146">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/146-beginners-help/">Beginners & Help</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Ask Beginner questions or seek General Help from the Bitcoin Community
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+					</ol>
+				
+			</li>
+			
+		
+			
+			<li data-categoryID='148' class='cForumRow ipsBox ipsSpacer_bottom'>
+				<h2 class="ipsType_sectionTitle ipsType_reset cForumTitle">
+					<a href='#' class='ipsPos_right ipsJS_show ipsType_noUnderline cForumToggle' data-action='toggleCategory' data-ipsTooltip title='Toggle this category'></a>
+					<a href='https://www.cryptotalk.org/index.php?/forum/148-world/'>World</a>
+				</h2>
+				
+					<ol class="ipsDataList ipsDataList_large ipsDataList_zebra ipsAreaBackground_reset" data-role="forums">
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="149">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/149-arabic/">Arabic</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Bitcoin discussion in Arabic
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="150">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/150-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B8-bulgarian/">български (Bulgarian)</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Bulgarian Language Bitcoin Discussion
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="151">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/151-bahasa-indonesia/">Bahasa Indonesia</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Indonesian Language Bitcoin Discussion
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="152">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/152-chinese-%E4%B8%AD%E5%9B%BD%E8%AA%9E/">Chinese (中国語)</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Chinese Language Bitcoin Discussion
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="153">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/153-croatian/">Croatian</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Croatian Language Bitcoin Discussion
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="154">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/154-danske/">Danske</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Danske Language Bitcoin Discussion
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="155">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/155-deutsch/">Deutsch</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Deutsch Language Bitcoin Discussion
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="156">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/156-espa%C3%B1ol/">Español </a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Spanish Language Bitcoin Discussion
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="157">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/157-%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC-greek/">Ελληνικά (Greek)</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Greek Language Bitcoin Discussion
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">1</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> post</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/735-xux99/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/735-xux99/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to xux99's profile">
+		<img src='https://secure.gravatar.com/avatar/0ea15de0d834cfdf94784e819e3b0706?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='xux99' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/1011-%CE%B1%CE%BD%CE%B1%CE%BA-magos-%CF%80%CF%81%CE%BF%CE%B3%CE%BD%CF%8E%CF%83%CE%B5%CE%B9%CF%82-%CF%84%CE%B5%CF%87%CE%BD%CE%B7%CF%84%CE%AE%CF%82-%CE%BD%CE%BF%CE%B7%CE%BC%CE%BF%CF%83%CF%8D%CE%BD%CE%B7%CF%82-ico/&amp;do=getNewComment" title='[ΑΝΑΚ] MAGOS - Προγνώσεις Τεχνητής Νοημοσύνης [ICO]'>[ΑΝΑΚ] MAGOS - Προγνώσεις &hellip;</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/735-xux99/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/735-xux99/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to xux99's profile" class="ipsType_break">xux99</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/1011-%CE%B1%CE%BD%CE%B1%CE%BA-magos-%CF%80%CF%81%CE%BF%CE%B3%CE%BD%CF%8E%CF%83%CE%B5%CE%B9%CF%82-%CF%84%CE%B5%CF%87%CE%BD%CE%B7%CF%84%CE%AE%CF%82-%CE%BD%CE%BF%CE%B7%CE%BC%CE%BF%CF%83%CF%8D%CE%BD%CE%B7%CF%82-ico/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-09-20T21:01:18Z' title='09/20/2017 09:01  PM' data-short='Sep 20'>September 20</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="158">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/158-farsi-persian/">Farsi / Persian</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Farsi / Persian Bitcoin Discussion Forum
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="159">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/159-fran%C3%A7ais/">Français</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	French Language Bitcoin Discussion
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="160">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/160-italiano/">Italiano</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Italian Language Bitcoin Discussion
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="161">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/161-india/">India</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Indian Language Bitcoin Discussion
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="162">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/162-japanese-%E6%97%A5%E6%9C%AC%E8%AA%9E/">Japanese 日本語</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Japanese Language Bitcoin Discussion
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">1</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> post</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/603-umigo/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/603-umigo/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to umigo's profile">
+		<img src='https://secure.gravatar.com/avatar/6938faa8ab241b672a91abfad56b9765?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='umigo' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/764-suretly-%E6%9C%80%E5%88%9D%E3%81%AE%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%82%92crowdvouching/&amp;do=getNewComment" title='Suretly - 最初のプラットフォームをcrowdvouching'>Suretly - 最初のプラットフォームをcrow&hellip;</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/603-umigo/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/603-umigo/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to umigo's profile" class="ipsType_break">umigo</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/764-suretly-%E6%9C%80%E5%88%9D%E3%81%AE%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%82%92crowdvouching/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-07-08T18:29:10Z' title='07/08/2017 06:29  PM' data-short='Jul 8'>July 8</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="163">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/163-korean-%ED%95%9C%EA%B5%AD%EC%96%B4/">Korean 한국어</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Korean Language Bitcoin Discussion
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="164">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/164-lithuanian-lietuvi%C5%B3/">Lithuanian (lietuvių)</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Lithuanian forum!
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="165">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/165-malay-bahasa-melayu/">Malay / Bahasa Melayu</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Malaysian Language Bitcoin Discussion
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">1</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> post</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/616-sos90/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/616-sos90/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Sos90's profile">
+		<img src='https://secure.gravatar.com/avatar/0d31d442e6bc776586088ca280390430?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='Sos90' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/791-peluang-untuk-menjadi-pemilik-bersama/&amp;do=getNewComment" title='Peluang untuk menjadi pemilik bersama!!!'>Peluang untuk menjadi pemi&hellip;</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/616-sos90/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/616-sos90/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to Sos90's profile" class="ipsType_break">Sos90</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/791-peluang-untuk-menjadi-pemilik-bersama/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-07-17T03:39:04Z' title='07/17/2017 03:39  AM' data-short='Jul 17'>July 17</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="166">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/166-nederlands/">Nederlands</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Dutch Language Bitcoin Discussion
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="167">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/167-norsk/">Norsk</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Norweigan Language Bitcoin Discussion
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="168">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/168-philippines/">Philippines</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Tagalog Language Bitcoin Discussion
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">2</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/444-coby/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/444-coby/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to coby's profile">
+		<img src='https://secure.gravatar.com/avatar/06bbfb438319de016a38c9706b6223b7?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='coby' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/668-adscash-open-at-25-cents/&amp;do=getNewComment" title='AdsCash - open at 2.5 cents'>AdsCash - open at 2.5 cent&hellip;</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/444-coby/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/444-coby/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to coby's profile" class="ipsType_break">coby</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/668-adscash-open-at-25-cents/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-04-04T21:23:03Z' title='04/04/2017 09:23  PM' data-short='Apr 4'>April 4</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="169">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/169-polskie/">Polskie</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Polish Language Bitcoin Discussion
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="170">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/170-portugu%C3%AAs/"> Português</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Português Language Bitcoin Discussion
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">1</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> post</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/748-sabotag3x/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/748-sabotag3x/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to sabotag3x's profile">
+		<img src='https://secure.gravatar.com/avatar/5725f26e68fde1dc2efb644cbe596a7a?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='sabotag3x' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/1041-annico-tokenstars-tokenize-celebridades-venda-do-token-ace-dia-10-de-set/&amp;do=getNewComment" title='[ANN][ICO] TokenStars: Tokenize Celebridades. Venda do Token ACE - dia 10 de Set'>[ANN][ICO] TokenStars: Tok&hellip;</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/748-sabotag3x/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/748-sabotag3x/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to sabotag3x's profile" class="ipsType_break">sabotag3x</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/1041-annico-tokenstars-tokenize-celebridades-venda-do-token-ace-dia-10-de-set/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-09-28T13:34:54Z' title='09/28/2017 01:34  PM' data-short='Sep 28'>September 28</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="171">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/171-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/">Русский</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Russian Language Bitcoin Discussion
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">1</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> post</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/441-cointr/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/441-cointr/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to CoinTr's profile">
+		<img src='https://lh6.googleusercontent.com/-q6brdGoUthw/AAAAAAAAAAI/AAAAAAAAAA4/q3QLfwLL0jE/photo.jpg' alt='CoinTr' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/659-new-ethereumfaucet-5-minute-75-ref-payment/&amp;do=getNewComment" title='NEW! EthereumFaucet - 5 Minute - %75 Ref Payment'>NEW! EthereumFaucet - 5 Mi&hellip;</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/441-cointr/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/441-cointr/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to CoinTr's profile" class="ipsType_break">CoinTr</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/659-new-ethereumfaucet-5-minute-75-ref-payment/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-03-27T10:32:13Z' title='03/27/2017 10:32  AM' data-short='Mar 27'>March 27</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="172">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/172-romanian/">Romanian</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Romanian Language Section
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="173">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/173-south-africa/">South Africa</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	South African Bitcoin discussion
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="174">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/174-svenska/">Svenska</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Swedish Language Bitcoin Discussion
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="175">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/175-suomi/">Suomi</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Finnish Language Bitcoin Discussion
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="176">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/176-t%C3%BCrk%C3%A7e/">Türkçe</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Turkish Language Bitcoin Discussion
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+					<dl>
+						
+						<dt class="ipsDataItem_stats_number">1</dt>
+						<dd class="ipsDataItem_stats_type ipsType_light"> post</dd>
+					</dl>
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li>
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/441-cointr/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/441-cointr/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to CoinTr's profile">
+		<img src='https://lh6.googleusercontent.com/-q6brdGoUthw/AAAAAAAAAAI/AAAAAAAAAA4/q3QLfwLL0jE/photo.jpg' alt='CoinTr' itemprop="image">
+	</a>
+</li>
+					<li><a href="https://www.cryptotalk.org/index.php?/topic/658-bedava-ethereum-faucet/&amp;do=getNewComment" title='Bedava Ethereum - Faucet'>Bedava Ethereum - Faucet</a></li>
+					<li class='ipsType_blendLinks'>By 
+<a href='https://www.cryptotalk.org/index.php?/profile/441-cointr/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/441-cointr/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to CoinTr's profile" class="ipsType_break">CoinTr</a></li>
+					
+						<li class="ipsType_light"><a href='https://www.cryptotalk.org/index.php?/topic/658-bedava-ethereum-faucet/&amp;do=getLastComment' title='Go to last post' class='ipsType_blendLinks'><time datetime='2017-03-27T10:28:29Z' title='03/27/2017 10:28  AM' data-short='Mar 27'>March 27</time></a></li>
+					
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+							
+
+
+	<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto  ipsClearfix" data-forumID="177">
+		<div class="ipsDataItem_icon ipsDataItem_category">
+			
+			
+			
+				
+					
+						<span class='ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read'>
+							<i class="fa fa-comments"></i>
+						</span>
+					
+				
+			
+		</div>
+		<div class="ipsDataItem_main">
+			<h4 class="ipsDataItem_title ipsType_large ipsType_break">
+				
+					<a href="https://www.cryptotalk.org/index.php?/forum/177-ti%E1%BA%BFng-vi%E1%BB%87t-vietnamese/">Tiếng Việt (Vietnamese)</a>
+				
+				
+			</h4>
+			
+			
+				<div class="ipsDataItem_meta ipsType_richText ipsContained"><p>
+	Tiếng Việt Bitcoin Forum
+</p></div>
+			
+		</div>
+		
+			<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+				
+				
+			</div>
+			<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+				
+					<li class='ipsType_light ipsResponsive_showDesktop'>No posts here yet</li>
+				
+			</ul>	
+		
+		
+	</li>
+
+						
+					</ol>
+				
+			</li>
+			
+		
+	</ol>
+</section>
+						
+
+	<div class='cWidgetContainer '  data-role='widgetReceiver' data-orientation='horizontal' data-widgetArea='footer'>
+		<ul class='ipsList_reset'>
+			
+				
+					
+					<li class='ipsWidget ipsWidget_horizontal ipsBox' data-blockID='app_core_whosOnline_n364sqq0q' data-blockTitle="Who's Online" data-controller='core.front.widgets.block'>
+<h3 class='ipsType_reset ipsWidget_title'>
+	Who's Online
+	
+		&nbsp;&nbsp;<span class='ipsType_light ipsType_unbold ipsType_medium'>0 Members, 0 Anonymous, 6 Guests</span>
+	
+	<span class='ipsType_medium ipsType_light ipsType_unbold ipsType_blendLinks'><a href='https://www.cryptotalk.org/index.php?/online/'>(See full list)</a></span>
+</h3>
+<div class='ipsWidget_inner ipsPad_half'>
+	
+		<p class='ipsType_reset ipsType_medium ipsType_light'>There are no registered users currently online</p>
+	
+</div></li>
+				
+					
+					<li class='ipsWidget ipsWidget_horizontal ipsBox' data-blockID='app_forums_forumStatistics_pmfwt2l0f' data-blockTitle="Forum Statistics" data-controller='core.front.widgets.block'>
+<h3 class='ipsType_reset ipsWidget_title'>Forum Statistics</h3>
+<div class='ipsWidget_inner'>
+	
+		<div class='ipsGrid ipsGrid_collapsePhone ipsWidget_stats'>
+			<div class='ipsGrid_span6 ipsType_center'>
+				<span class='ipsType_large ipsWidget_statsCount'>707</span><br>
+				<span class='ipsType_light ipsType_medium'>Total Topics</span>
+			</div>
+			<div class='ipsGrid_span6 ipsType_center'>
+				<span class='ipsType_large ipsWidget_statsCount'>2,336</span><br>
+				<span class='ipsType_light ipsType_medium'>Total Posts</span>
+			</div>
+		</div>
+	
+</div></li>
+				
+					
+					<li class='ipsWidget ipsWidget_horizontal ipsBox' data-blockID='app_core_stats_l415umpma' data-blockConfig="true" data-blockTitle="Member Statistics" data-controller='core.front.widgets.block'>
+<h3 class='ipsType_reset ipsWidget_title'>Member Statistics</h3>
+<div class='ipsWidget_inner'>
+	
+		<div class='ipsGrid ipsGrid_collapsePhone ipsWidget_stats'>
+			<div class='ipsGrid_span4 ipsType_center'>
+				<span class='ipsType_large ipsWidget_statsCount'>729</span><br>
+				<span class='ipsType_light ipsType_medium'>Total Members</span>
+			</div>
+			<div class='ipsGrid_span4 ipsType_center'>
+				<span class='ipsType_large ipsWidget_statsCount' data-ipsTooltip title='11/05/2016 03:22  PM'>38</span><br>
+				<span class='ipsType_light ipsType_medium'>Most Online</span>
+			</div>
+			<div class='ipsGrid_span4 ipsType_left ipsPhotoPanel ipsPhotoPanel_mini cNewestMember'>
+				
+
+
+	<a href="https://www.cryptotalk.org/index.php?/profile/780-jeff/" data-ipsHover data-ipsHover-target="https://www.cryptotalk.org/index.php?/profile/780-jeff/&amp;do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Go to Jeff's profile">
+		<img src='https://secure.gravatar.com/avatar/69f3b71d19b72c9a84c9aeb2ea6b0181?d=https://www.cryptotalk.org/uploads/set_resources_1/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png' alt='Jeff' itemprop="image">
+	</a>
+
+				<div>
+					<span class='ipsType_minorHeading'>Newest Member</span><br>
+					<span class='ipsType_normal'>
+<a href='https://www.cryptotalk.org/index.php?/profile/780-jeff/' data-ipsHover data-ipsHover-target='https://www.cryptotalk.org/index.php?/profile/780-jeff/&amp;do=hovercard&amp;referrer=https%253A%252F%252Fwww.cryptotalk.org%252F' title="Go to Jeff's profile" class="ipsType_break">Jeff</a></span><br>
+					<span class='ipsType_small ipsType_light'>Joined <time datetime='2017-10-13T19:54:07Z' title='10/13/2017 07:54  PM' data-short='4 hr'>4 hours ago</time></span>
+				</div>
+			</div>
+		</div>
+	
+</div></li>
+				
+			
+		</ul>
+	</div>
+
+					</div>
+					
+
+	<div id='ipsLayout_sidebar' class='ipsLayout_sidebarright ' data-controller='core.front.widgets.sidebar'>
+		
+		
+		
+
+	<div class='cWidgetContainer '  data-role='widgetReceiver' data-orientation='vertical' data-widgetArea='sidebar'>
+		<ul class='ipsList_reset'>
+			
+				
+					
+					<li class='ipsWidget ipsWidget_vertical ipsBox' data-blockID='app_cms_Blocks_s5z04dlx1' data-blockConfig="true" data-blockTitle="Custom Blocks" data-controller='core.front.widgets.block'>
+<script type="text/javascript">
+baseUrl = "https://widgets.cryptocompare.com/";
+var scripts = document.getElementsByTagName("script");
+var embedder = scripts[ scripts.length - 1 ];
+(function (){
+var appName = encodeURIComponent(window.location.hostname);
+if(appName==""){appName="local";}
+var s = document.createElement("script");
+s.type = "text/javascript";
+s.async = true;
+var theUrl = baseUrl+'serve/v1/coin/multi?fsyms=BTC,ETH,DASH,XBY,FCT&tsyms=USD,EUR,CNY,GBP';
+s.src = theUrl + ( theUrl.indexOf("?") >= 0 ? "&" : "?") + "app=" + appName;
+embedder.parentNode.appendChild(s);
+})();
+</script>
+</li>
+				
+					
+					<li class='ipsWidget ipsWidget_vertical ipsBox' data-blockID='app_cms_Blocks_zkq76qalh' data-blockConfig="true" data-blockTitle="Custom Blocks" data-controller='core.front.widgets.block'>
+<script type="text/javascript">
+baseUrl = "https://widgets.cryptocompare.com/";
+var scripts = document.getElementsByTagName("script");
+var embedder = scripts[ scripts.length - 1 ];
+(function (){
+var appName = encodeURIComponent(window.location.hostname);
+if(appName==""){appName="local";}
+var s = document.createElement("script");
+s.type = "text/javascript";
+s.async = true;
+var theUrl = baseUrl+'serve/v3/coin/chart?fsym=XBY&tsyms=USD,EUR,CNY,GBP,BTC';
+s.src = theUrl + ( theUrl.indexOf("?") >= 0 ? "&" : "?") + "app=" + appName;
+embedder.parentNode.appendChild(s);
+})();
+</script>
+</li>
+				
+			
+		</ul>
+	</div>
+
+	</div>
+
+					
+<nav class='ipsBreadcrumb ipsBreadcrumb_bottom ipsFaded_withHover'>
+	
+		
+
+
+	
+
+	<ul class='ipsList_inline ipsPos_right'>
+		
+		<li >
+			<a data-action="defaultStream" class='ipsType_light '  href='https://www.cryptotalk.org/index.php?/discover/'><i class='icon-newspaper'></i> <span>All Activity</span></a>
+		</li>
+		
+	</ul>
+
+	<ul >
+		<li >
+			<a title="Home" href='https://www.cryptotalk.org/' >
+				<span ><i class='fa fa-home'></i> Home</span>
+			</a>
+			<meta itemprop="position" content="1">
+		</li>
+		
+		
+	</ul>
+</nav>
+				</div>
+			</div>
+			
+		</main><footer id="ipsLayout_footer" class="ipsClearfix"><div class="ipsLayout_container">
+				
+
+<div class='ipsAdvertisement ipsSpacer_both ipsSpacer_half'>
+	<ul class='ipsList_inline ipsType_center ipsList_reset ipsList_noSpacing'>
+		<li class='ipsAdvertisement_large ipsResponsive_showDesktop ipsResponsive_inlineBlock ipsAreaBackground_light'>
+			
+				<a href='https://www.cryptotalk.org/index.php?app=core&amp;module=system&amp;controller=redirect&amp;do=advertisement&amp;ad=15&amp;csrfKey=c988d11125ae9a2c406a37121a723ef8'  rel='nofollow noopener noreferrer'>
+			
+				<img src='https://www.cryptotalk.org/uploads/monthly_2016_11/728x90S.gif.5086bd2dd10bd89f125fed123427eda9.gif' alt="advertisement_alt" class='ipsImage ipsContained'>
+			
+				</a>
+			
+		</li>
+		
+		<li class='ipsAdvertisement_medium ipsResponsive_showTablet ipsResponsive_inlineBlock ipsAreaBackground_light'>
+			
+				<a href='https://www.cryptotalk.org/index.php?app=core&amp;module=system&amp;controller=redirect&amp;do=advertisement&amp;ad=15&amp;csrfKey=c988d11125ae9a2c406a37121a723ef8'  rel='nofollow noopener noreferrer'>
+			
+				<img src='https://www.cryptotalk.org/uploads/monthly_2016_11/728x90S.gif.5086bd2dd10bd89f125fed123427eda9.gif' alt="advertisement_alt" class='ipsImage ipsContained'>
+			
+				</a>
+			
+		</li>
+
+		<li class='ipsAdvertisement_small ipsResponsive_showPhone ipsResponsive_inlineBlock ipsAreaBackground_light'>
+			
+				<a href='https://www.cryptotalk.org/index.php?app=core&amp;module=system&amp;controller=redirect&amp;do=advertisement&amp;ad=15&amp;csrfKey=c988d11125ae9a2c406a37121a723ef8'  rel='nofollow noopener noreferrer'>
+			
+				<img src='https://www.cryptotalk.org/uploads/monthly_2016_11/728x90S.gif.5086bd2dd10bd89f125fed123427eda9.gif' alt="advertisement_alt" class='ipsImage ipsContained'>
+			
+				</a>
+			
+		</li>
+		
+	</ul>
+	
+</div>
+
+				
+
+<ul class='ipsList_inline ipsType_center ipsSpacer_top' id="elFooterLinks">
+
+	
+	
+	
+	
+		<li>
+			<a href='#elNavTheme_menu' id='elNavTheme' data-ipsMenu data-ipsMenu-above>Theme <i class='fa fa-caret-down'></i></a>
+			<ul id='elNavTheme_menu' class='ipsMenu ipsMenu_selectable ipsHide'>
+			
+				
+					<li class='ipsMenu_item ipsMenu_itemChecked'>
+						<form action="//www.cryptotalk.org/index.php?/theme/&amp;csrfKey=c988d11125ae9a2c406a37121a723ef8" method="post">
+						<button type='submit' name='id' value='1' class='ipsButton ipsButton_link'>Default (Default)</button>
+						</form>
+					</li>
+				
+			
+				
+					<li class='ipsMenu_item'>
+						<form action="//www.cryptotalk.org/index.php?/theme/&amp;csrfKey=c988d11125ae9a2c406a37121a723ef8" method="post">
+						<button type='submit' name='id' value='2' class='ipsButton ipsButton_link'>Chameleon </button>
+						</form>
+					</li>
+				
+			
+				
+					<li class='ipsMenu_item'>
+						<form action="//www.cryptotalk.org/index.php?/theme/&amp;csrfKey=c988d11125ae9a2c406a37121a723ef8" method="post">
+						<button type='submit' name='id' value='5' class='ipsButton ipsButton_link'>IPS Support </button>
+						</form>
+					</li>
+				
+			
+			</ul>
+		</li>
+	
+	
+	
+		<li><a href='https://www.cryptotalk.org/index.php?/contact/' data-ipsdialog data-ipsDialog-remoteSubmit data-ipsDialog-flashMessage='Thanks, your message has been sent to the administrators.' data-ipsdialog-title="Contact Us">Contact Us</a></li>
+	
+</ul>	
+
+
+<p id='elCopyright'>
+	<span id='elCopyright_userLine'>Copyright (©) 2017 Crypto Group PTY LTD</span>
+	<a rel='nofollow' title='Community Software by Invision Power Services, Inc.' href='https://www.invisionpower.com/'>Community Software by Invision Power Services, Inc.</a>
+</p>
+			</div>
+		</footer>
+		
+<div id='elMobileDrawer' class='ipsDrawer ipsHide'>
+	<a href='#' class='ipsDrawer_close' data-action='close'><span>&times;</span></a>
+	<div class='ipsDrawer_menu'>
+		<div class='ipsDrawer_content'>
+			
+
+			<div class='ipsSpacer_bottom ipsPad'>
+				<ul class='ipsToolList ipsToolList_vertical'>
+					
+						<li>
+							<a href='https://www.cryptotalk.org/index.php?/login/' class='ipsButton ipsButton_light ipsButton_small ipsButton_fullWidth'>Existing user? Sign In</a>
+						</li>
+						
+							<li>
+								<a href='https://www.cryptotalk.org/index.php?/register/' id='elRegisterButton_mobile' class='ipsButton ipsButton_small ipsButton_fullWidth ipsButton_important'>Sign Up</a>
+							</li>
+						
+					
+
+					
+				</ul>
+			</div>
+
+			<ul class='ipsDrawer_list'>
+				
+
+				
+				
+				
+				
+					
+						
+						
+							<li class='ipsDrawer_itemParent'>
+								<h4 class='ipsDrawer_title'><a href='#'>System</a></h4>
+								<ul class='ipsDrawer_list'>
+									<li data-action="back"><a href='#'>Back</a></li>
+									
+									
+										
+
+
+	
+		
+			<li>
+				<a href='http://www.cryptopool.io' target='_blank'>
+					Cryptopool.io
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://www.site24x7.com/sv.do?id=FvjOIe%2BagLnM0T%2Bii9qlziXQrQQeefhig6iEtcsuxST%2BCEuNNoRPPrpDmwD9AA1cULpVCdV7V1fZ%0ArPrlfwVCstdqOBbRp1EPyKK5HqxJvX0=' target='_blank'>
+					Pool Server Status
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://www.cryptotalk.org/wallet' target='_blank'>
+					CryptoTalk Web Wallet
+				</a>
+			</li>
+		
+	
+
+									
+										
+								</ul>
+							</li>
+						
+					
+				
+					
+						
+						
+							<li class='ipsDrawer_itemParent'>
+								<h4 class='ipsDrawer_title'><a href='#'>Activity</a></h4>
+								<ul class='ipsDrawer_list'>
+									<li data-action="back"><a href='#'>Back</a></li>
+									
+										<li><a href='https://www.cryptotalk.org/index.php?/discover/'>Activity</a></li>
+									
+									
+									
+										
+
+
+	
+		
+			<li>
+				<a href='https://www.cryptotalk.org/index.php?/discover/' >
+					All Activity
+				</a>
+			</li>
+		
+	
+
+	
+
+	
+
+	
+
+	
+		
+			<li>
+				<a href='https://www.cryptotalk.org/index.php?/search/' >
+					Search
+				</a>
+			</li>
+		
+	
+
+										
+								</ul>
+							</li>
+						
+					
+				
+					
+						
+						
+							<li class='ipsDrawer_itemParent'>
+								<h4 class='ipsDrawer_title'><a href='#'>Store</a></h4>
+								<ul class='ipsDrawer_list'>
+									<li data-action="back"><a href='#'>Back</a></li>
+									
+										<li><a href='https://www.cryptotalk.org/index.php?/store/'>Store</a></li>
+									
+									
+									
+										
+
+
+	
+		
+			<li>
+				<a href='https://www.cryptotalk.org/index.php?/clients/purchases/' >
+					Manage Purchases
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://www.cryptotalk.org/index.php?/clients/' >
+					Orders
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://www.cryptotalk.org/index.php?/clients/donations/' >
+					Donations
+				</a>
+			</li>
+		
+	
+
+	
+		
+			
+			<li class='ipsDrawer_itemParent'>
+				<h4 class='ipsDrawer_title'><a href='#'>My Details</a></h4>
+				<ul class='ipsDrawer_list'>
+					<li data-action="back"><a href='#'>Back</a></li>
+					
+					
+
+
+	
+		
+			<li>
+				<a href='https://www.cryptotalk.org/index.php?/clients/info/' >
+					Personal Information
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://www.cryptotalk.org/index.php?/clients/addresses/' >
+					Addresses
+				</a>
+			</li>
+		
+	
+
+	
+
+	
+
+	
+
+	
+		
+			<li>
+				<a href='https://www.cryptotalk.org/index.php?/clients/alternative-contacts/' >
+					Alternative Contacts
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://www.cryptotalk.org/index.php?/clients/referrals/' >
+					Referrals
+				</a>
+			</li>
+		
+	
+
+				</ul>
+			</li>
+		
+	
+
+										
+								</ul>
+							</li>
+						
+					
+				
+					
+						
+						
+							<li class='ipsDrawer_itemParent'>
+								<h4 class='ipsDrawer_title'><a href='#'>Support</a></h4>
+								<ul class='ipsDrawer_list'>
+									<li data-action="back"><a href='#'>Back</a></li>
+									
+										<li><a href='https://www.cryptotalk.org/index.php?/support/'>Support</a></li>
+									
+									
+									
+										
+
+
+	
+		
+			<li>
+				<a href='https://www.cryptotalk.org/index.php?/support/' >
+					Support
+				</a>
+			</li>
+		
+	
+
+	
+
+										
+								</ul>
+							</li>
+						
+					
+				
+					
+						
+						
+							<li class='ipsDrawer_itemParent'>
+								<h4 class='ipsDrawer_title'><a href='#'>Browse</a></h4>
+								<ul class='ipsDrawer_list'>
+									<li data-action="back"><a href='#'>Back</a></li>
+									
+										<li><a href='https://www.cryptotalk.org'>Browse</a></li>
+									
+									
+									
+										
+
+
+	
+		
+			<li>
+				<a href='https://www.cryptotalk.org/index.php' >
+					Forums
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://www.cryptotalk.org/index.php?/articles.html/' >
+					Articles
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://www.cryptotalk.org/index.php?/guidelines/' >
+					Guidelines
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://www.cryptotalk.org/index.php?/staff/' >
+					Staff
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://www.cryptotalk.org/index.php?/online/' >
+					Online Users
+				</a>
+			</li>
+		
+	
+
+										
+								</ul>
+							</li>
+						
+					
+				
+					
+						
+						
+							<li><a href='https://www.cryptotalk.org/index.php?/donate/' >Donations</a></li>
+						
+					
+				
+					
+						
+						
+							<li><a href='https://www.cryptotalk.org/index.php?/leaderboard/' >Leaderboard</a></li>
+						
+					
+				
+			</ul>
+		</div>
+	</div>
+</div>
+		
+		
+		
+		
+		<!--ipsQueryLog-->
+		<!--ipsCachingLog-->
+		
+		<script type="text/javascript" src="/arrowchat/external.php?type=djs" charset="utf-8"></script><script type="text/javascript" src="/arrowchat/external.php?type=js" charset="utf-8"></script></body></html>
