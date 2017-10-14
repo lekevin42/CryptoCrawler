@@ -21,7 +21,9 @@ NEWSPIDER_MODULE = 'crypto.spiders'
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
 
-RETRY_ENABLED = False
+#RETRY_ENABLED = False
+
+#RETRY_HTTP_CODES = []
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32

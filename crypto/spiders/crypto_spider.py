@@ -3,10 +3,11 @@ import scrapy
 
 class CryptoSpider(scrapy.Spider):
     name = "cryptospider"
+    download_delay = 2
     start_urls = [
         #'https://www.cryptotalk.org/index.php?/topic/23-btc-price-speculation-thread/',
         #'https://www.cryptotalk.org/index.php?/forum/62-crypto-talk-announcements/',
-        'https://www.cryptotalk.org/',  #response.css('h4.ipsDataItem_title.ipsType_large.ipsType_break a::attr(href)').extract()
+        'https://www.cryptotalk.org/',
     ]
     keywords = {}
 
@@ -16,23 +17,34 @@ class CryptoSpider(scrapy.Spider):
 
 
     def parse(self, response):
+        """
+        Main parsing function used for scrapy.
+        Grab all the topics from cryptotalk using scrapy and use a scrapy request to iterate through the list.
+        Use parseTopic function as a callback for the request.
+        """
         #self.getHTML(response, "frontPage")
 
         for topic in response.css('h4.ipsDataItem_title.ipsType_large.ipsType_break a::attr(href)').extract():
             print(topic)
-            #t = response.urljoin(topic)
-
             yield scrapy.Request(topic, callback=self.parseTopic)
 
 
-        #self.parsePost(response)
-        #link.css('div.ipsType_break.ipsContained a::attr(href)').extract()
-
     def parseTopic(self, response):
-        for t in response.css('div.ipsType_break.ipsContained a::attr(href)').extract():
-            print(t)
+        """
+        Parse through the topic to get individual subtopics and use scrapy request once again with
+        parsePost to obtain individual posts.
+        """
+
+        for subtopic in response.css('div.ipsType_break.ipsContained a::attr(href)').extract():
+            print(subtopic)
+            yield scrapy.Request(subtopic, callback=self.parsePost)
+
 
     def parsePost(self, response):
+        """
+        Parse through the post list and then search for keywords and increment the frequency (in a dictionary)
+        when it appears.
+        """
         for post in response.css('div.ipsType_normal.ipsType_richText.ipsContained'):
             text = post.css('p::text').extract()
             for sentence in text:
@@ -40,11 +52,15 @@ class CryptoSpider(scrapy.Spider):
                     if k in sentence.lower():
                         self.keywords[k] += 1
 
+
         for k,v in self.keywords.items():
             print(k ,v)
 
 
     def getHTML(self, response, fileName):
+        """
+        Function to obtain HTML.
+        """
         fileName += ".txt"
         with open(fileName, 'wb') as f:
             f.write(response.body)
