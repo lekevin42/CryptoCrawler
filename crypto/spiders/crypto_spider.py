@@ -9,11 +9,11 @@ class CryptoSpider(scrapy.Spider):
         #'https://www.cryptotalk.org/index.php?/forum/62-crypto-talk-announcements/',
         'https://www.cryptotalk.org/',
     ]
-    keywords = {}
+    #keywords = {}
 
-    with open("keywords.txt", 'r') as file:
-        for keyWord in file:
-            keywords[keyWord.strip()] = 0
+    #with open("keywords.txt", 'r') as file:
+    #    for keyWord in file:
+    #        keywords[keyWord.strip()] = 0
 
 
     def parse(self, response):
@@ -47,14 +47,24 @@ class CryptoSpider(scrapy.Spider):
         """
         for post in response.css('div.ipsType_normal.ipsType_richText.ipsContained'):
             text = post.css('p::text').extract()
-            for sentence in text:
-                for k, v in self.keywords.items():
-                    if k in sentence.lower():
-                        self.keywords[k] += 1
+            #for sentence in text:
+            #    for k, v in self.keywords.items():
+            #        if k in sentence.lower():
+            #            self.keywords[k] += 1
 
+#post text, author, author ranking, time, quoted text, likes, first post
+#17 = first post
+#1139 = time
 
-        for k,v in self.keywords.items():
-            print(k ,v)
+#1418 = author, author ranking, reputation
+#1476 = author date of post
+#1516 = likes
+#2641 = quoted text
+
+        yield {
+            'url': response.url,
+            'text': text
+        }
 
 
     def getHTML(self, response, fileName):
