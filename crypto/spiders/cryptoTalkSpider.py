@@ -1,19 +1,14 @@
 import scrapy
 
 
-class CryptoSpider(scrapy.Spider):
-    name = "cryptospider"
+class CryptoTalkSpider(scrapy.Spider):
+    name = "cryptoTalkSpider"
     download_delay = 2
     start_urls = [
         #'https://www.cryptotalk.org/index.php?/topic/23-btc-price-speculation-thread/',
         #'https://www.cryptotalk.org/index.php?/forum/62-crypto-talk-announcements/',
         'https://www.cryptotalk.org/',
     ]
-    #keywords = {}
-
-    #with open("keywords.txt", 'r') as file:
-    #    for keyWord in file:
-    #        keywords[keyWord.strip()] = 0
 
 
     def parse(self, response):
@@ -45,26 +40,50 @@ class CryptoSpider(scrapy.Spider):
         Parse through the post list and then search for keywords and increment the frequency (in a dictionary)
         when it appears.
         """
-        for post in response.css('div.ipsType_normal.ipsType_richText.ipsContained'):
-            text = post.css('p::text').extract()
-            #for sentence in text:
-            #    for k, v in self.keywords.items():
-            #        if k in sentence.lower():
-            #            self.keywords[k] += 1
+
+        for post in response.css('article.cPost.ipsBox.ipsComment.ipsComment_parent.ipsClearfix.ipsClear.ipsColumns.ipsColumns_noSpacing.ipsColumns_collapsePhone'):
+            url = response.url
+            postText = " ".join(post.css('div.cPost_contentWrap.ipsPad p::text').extract())
+            postAuthor = post.css('a.ipsType_break::text').extract_first()
+            postDate = post.css('p.ipsType_reset time::attr(title)').extract_first()
+            quotedText = post.css('div.ipsQuote_contents p::text').extract_first()
+            authorRep = post.css('li.ipsResponsive_hidePhone.ipsType_break::text').extract_first()
+            authorPostCount = post.css('ul.cAuthorPane_info.ipsList_reset span.ipsRepBadge.ipsRepBadge_positive::text').extract()
+
+
+            if not authorPostCount:
+                authorPostCount = 0
+
+            else:
+                authorPostCount = authorPostCount[1].strip()
+
+            postLikes = post.css('span.ipsReputation_count.ipsType_blendLinks.ipsType_positive::text').extract_first()
+
+            if postLikes:
+                postLikes = postLikes.strip()
+
+            else:
+                postLikes = 0
+
+            yield {
+                'url': url,
+                'postText': postText,
+                'postAuthor': postAuthor,
+                'postDate': postDate,
+                'quotedText': quotedText,
+                'authorRep': authorRep,
+                'authorPostCount': authorPostCount,
+                'postLikes': postLikes,
+            }
 
 #post text, author, author ranking, time, quoted text, likes, first post
 #17 = first post
 #1139 = time
 
-#1418 = author, author ranking, reputation
+#1418 = author!, author ranking, reputation
 #1476 = author date of post
 #1516 = likes
 #2641 = quoted text
-
-        yield {
-            'url': response.url,
-            'text': text
-        }
 
 
     def getHTML(self, response, fileName):
