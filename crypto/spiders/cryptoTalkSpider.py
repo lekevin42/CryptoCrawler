@@ -43,7 +43,7 @@ class CryptoTalkSpider(scrapy.Spider):
 
         for post in response.css('article.cPost.ipsBox.ipsComment.ipsComment_parent.ipsClearfix.ipsClear.ipsColumns.ipsColumns_noSpacing.ipsColumns_collapsePhone'):
             url = response.url
-            postText = " ".join(post.css('div.cPost_contentWrap.ipsPad p::text').extract())
+            postText = "".join(post.css('div.cPost_contentWrap.ipsPad p::text, p *::text').extract()[6:])
             postAuthor = post.css('a.ipsType_break::text').extract_first()
             postDate = post.css('p.ipsType_reset time::attr(title)').extract_first()
             quotedText = post.css('div.ipsQuote_contents p::text').extract_first()
